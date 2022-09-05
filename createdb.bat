@@ -1,0 +1,1 @@
+java -jar apinatomy.jar -hlocalhost -fmadbfma_local_3_2 -newdbapinatomy_db_test -upina -ppina

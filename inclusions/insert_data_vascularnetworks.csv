@@ -1,0 +1,336 @@
+arterial_network,INSERT,{Trunk of right anterior choroidal artery;Trunk of branch of right anterior choroidal artery to red nucleus}
+arterial_network,INSERT,{Trunk of left anterior choroidal artery;Trunk of branch of left anterior choroidal artery to genu of internal capsule}
+arterial_network,INSERT,{Trunk of right anterior choroidal artery;Trunk of branch of right anterior choroidal artery to genu of internal capsule}
+arterial_network,INSERT,{Trunk of left anterior choroidal artery;Trunk of branch of left anterior choroidal artery to retrolentiform limb of internal capsule}
+arterial_network,INSERT,{Trunk of right anterior choroidal artery;Trunk of branch of right anterior choroidal artery to retrolentiform limb of internal capsule}
+arterial_network,INSERT,{Trunk of right anterior choroidal artery;Trunk of branch of right anterior choroidal artery to posterior limb of internal capsule}
+arterial_network,INSERT,{Trunk of left anterior choroidal artery;Trunk of branch of left anterior choroidal artery to posterior limb of internal capsule}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left superior temporal retinal vein}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left inferior temporal retinal vein}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left superior nasal retinal vein}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left inferior nasal retinal vein}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left superior macular vein}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left inferior macular vein}
+venous_network,INSERT,{Trunk of left central retinal vein;Trunk of left middle macular vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right superior temporal retinal vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right inferior temporal retinal vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right superior nasal retinal vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right inferior nasal retinal vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right superior macular vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right inferior macular vein}
+venous_network,INSERT,{Trunk of right central retinal vein;Trunk of right middle macular vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of superior temporal retinal vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of inferior temporal retinal vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of superior nasal retinal vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of inferior nasal retinal vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of superior macular vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of inferior macular vein}
+venous_network,INSERT,{Trunk of central retinal vein;Trunk of middle macular vein}
+venous_network,INSERT,{Trunk of left internal cerebral vein;Trunk of left superior choroid vein}
+venous_network,INSERT,{Trunk of left internal cerebral vein;Trunk of left inferior choroid vein}
+venous_network,INSERT,{Trunk of right internal cerebral vein;Trunk of right superior choroid vein}
+venous_network,INSERT,{Trunk of right internal cerebral vein;Trunk of right inferior choroid vein}
+venous_network,INSERT,{Trunk of left internal thoracic vein;Trunk of left musculophrenic vein}
+venous_network,INSERT,{Trunk of right internal thoracic vein;Trunk of right musculophrenic vein}
+venous_network,INSERT,{Trunk of left internal pudendal vein;Trunk of left inferior rectal vein}
+venous_network,INSERT,{Trunk of right internal pudendal vein;Trunk of right inferior rectal vein}
+venous_network,INSERT,{Trunk of left inferior epigastric vein;Venae comitantes of left inferior epigastric vein}
+venous_network,INSERT,{Trunk of right inferior epigastric vein;Venae comitantes of right inferior epigastric vein}
+arterial_network,INSERT,{Trunk of right coronary artery;Trunk of atrial branch of right coronary artery}
+venous_network,INSERT,{Right atrium;Trunk of anterior cardiac vein}
+venous_network,INSERT,{Trunk of splenic vein;Trunk of left gastroepiploic vein}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of right gastroepiploic vein}
+arterial_network,INSERT,{Trunk of left uterine artery;Trunk of left anterior azygos artery of vagina}
+arterial_network,INSERT,{Trunk of right uterine artery;Trunk of right anterior azygos artery of vagina}
+venous_network,INSERT,{Trunk of left brachiocephalic vein;Trunk of mediastinal vein}
+arterial_network,INSERT,{Trunk of left inferior gluteal artery;Trunk of articular branch of left inferior gluteal artery}
+arterial_network,INSERT,{Trunk of right inferior gluteal artery;Trunk of articular branch of right inferior gluteal artery}
+arterial_network,INSERT,{Trunk of posterior interventricular branch of right coronary artery;Trunk of septal branch of right posterior interventricular artery}
+arterial_network,INSERT,{Trunk of splenic artery;Trunk of pancreatic tributary of splenic artery}
+venous_network,INSERT,{Trunk of splenic vein;Trunk of pancreatic tributary of splenic vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right bronchial vein}
+venous_network,INSERT,{Trunk of hemiazygos vein;Trunk of left bronchial vein}
+arterial_network,INSERT,{Trunk of left internal pudendal artery;Trunk of left artery of urethral bulb}
+venous_network,INSERT,{Trunk of left penile bulb vein;Trunk of bulbo-urethral gland tributary of left penile bulb vein}
+arterial_network,INSERT,{Trunk of right internal pudendal artery;Trunk of right artery of urethral bulb}
+venous_network,INSERT,{Trunk of right penile bulb vein;Trunk of bulbo-urethral gland tributary of right penile bulb vein}
+venous_network,INSERT,{Trunk of left common iliac vein;Venae comitantes of left iliolumbar vein}
+arterial_network,INSERT,{Trunk of lumbar part of left iliolumbar artery;Trunk of spinal division of lumbar part of left iliolumbar artery}
+venous_network,INSERT,{Trunk of right common iliac vein;Venae comitantes of right iliolumbar vein}
+arterial_network,INSERT,{Trunk of right iliolumbar artery;Trunk of spinal division of lumbar part of right iliolumbar artery}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of hepatic vein of caudate lobe}
+venous_network,INSERT,{Trunk of right hepatic vein;Trunk of right paracaval tributary of right hepatic vein}
+arterial_network,INSERT,{Trunk of left internal pudendal artery;Trunk of left dorsal artery of the clitoris}
+arterial_network,INSERT,{Trunk of right internal pudendal artery;Trunk of right dorsal artery of the clitoris}
+venous_network,INSERT,{Trunk of common iliac vein;Trunk of median sacral vein}
+venous_network,INSERT,{Trunk of internal pudendal vein;Trunk of deep dorsal vein of clitoris}
+venous_network,INSERT,{Trunk of internal pudendal vein;Trunk of deep dorsal vein of penis}
+venous_network,INSERT,{Trunk of left internal pudendal vein;Trunk of left urethral vein}
+venous_network,INSERT,{Trunk of right internal pudendal vein;Trunk of right urethral vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of right testicular vein}
+venous_network,INSERT,{Trunk of left renal vein;Trunk of left testicular vein}
+venous_network,INSERT,{Trunk of left internal pudendal vein;Trunk of left perineal vein}
+arterial_network,INSERT,{Trunk of left perineal artery;Trunk of posterior scrotal branches of left perineal artery}
+venous_network,INSERT,{Trunk of right internal pudendal vein;Trunk of right perineal vein}
+arterial_network,INSERT,{Trunk of right perineal artery;Trunk of posterior scrotal branches of right perineal artery}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of pancreaticoduodenal vein}
+venous_network,INSERT,{Trunk of ileocolic vein;Trunk of ileal tributary of ileocolic vein}
+venous_network,INSERT,{Trunk of left internal iliac vein;Trunk of left lateral sacral vein}
+arterial_network,INSERT,{Trunk of left lateral sacral artery;Trunk of inferior part of left lateral sacral artery}
+venous_network,INSERT,{Trunk of right internal iliac vein;Trunk of right lateral sacral vein}
+arterial_network,INSERT,{Trunk of right lateral sacral artery;Trunk of inferior part of right lateral sacral artery}
+venous_network,INSERT,{Trunk of accessory hemiazygos vein;Trunk of left eighth posterior intercostal vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right eighth posterior intercostal vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right eleventh posterior intercostal vein}
+venous_network,INSERT,{Trunk of hemiazygos vein;Trunk of left eleventh posterior intercostal vein}
+venous_network,INSERT,{Trunk of left internal thoracic vein;Trunk of left superior epigastric vein}
+venous_network,INSERT,{Trunk of right internal thoracic vein;Trunk of right superior epigastric vein}
+venous_network,INSERT,{Trunk of accessory hemiazygos vein;Trunk of left fifth posterior intercostal vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right fifth posterior intercostal vein}
+arterial_network,INSERT,{Trunk of left fifth lumbar artery;Trunk of spinal branch of posterior ramus of left fifth lumbar artery}
+arterial_network,INSERT,{Trunk of right fifth lumbar artery;Trunk of spinal branch of posterior ramus of right fifth lumbar artery}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of left first lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of right first lumbar vein}
+arterial_network,INSERT,{Trunk of left first lumbar artery;Trunk of spinal branch of posterior ramus of left first lumbar artery}
+arterial_network,INSERT,{Trunk of right first lumbar artery;Trunk of spinal branch of posterior ramus of right first lumbar artery}
+venous_network,INSERT,{Trunk of accessory hemiazygos vein;Trunk of left fourth posterior intercostal vein}
+venous_network,INSERT,{Trunk of right superior intercostal vein;Trunk of right fourth posterior intercostal vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of left fourth lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of right fourth lumbar vein}
+arterial_network,INSERT,{Trunk of left fourth lumbar artery;Trunk of spinal branch of posterior ramus of left fourth lumbar artery}
+arterial_network,INSERT,{Trunk of right fourth lumbar artery;Trunk of spinal branch of posterior ramus of right fourth lumbar artery}
+venous_network,INSERT,{Trunk of splenic vein;Trunk of short gastric vein}
+arterial_network,INSERT,{Trunk of left internal pudendal artery;Trunk of left dorsal artery of the penis}
+arterial_network,INSERT,{Trunk of right internal pudendal artery;Trunk of right dorsal artery of the penis}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of anteroinferior segmental artery of the left renal artery}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of inferior segmental artery of the left renal artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of anteroinferior segmental artery of the right renal artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of inferior segmental artery of the right renal artery}
+venous_network,INSERT,{Coronary sinus;Trunk of posterior vein of the left ventricle}
+venous_network,INSERT,{Coronary sinus;Trunk of small cardiac vein}
+venous_network,INSERT,{Trunk of left internal iliac vein;Trunk of left obturator vein}
+arterial_network,INSERT,{Trunk of left obturator artery;Trunk of anterior branch of left obturator artery}
+arterial_network,INSERT,{Trunk of left obturator artery;Trunk of posterior branch of left obturator artery}
+arterial_network,INSERT,{Trunk of left inferior phrenic artery;Trunk of left superior suprarenal artery branch of left inferior phrenic artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of right inferior suprarenal artery branch of right renal artery}
+venous_network,INSERT,{Coronary sinus;Trunk of oblique vein of the left atrium}
+arterial_network,INSERT,{Trunk of right coronary artery;Trunk of artery of sinuatrial node branch of right coronary artery}
+venous_network,INSERT,{Trunk of left internal iliac vein;Trunk of left vaginal vein}
+venous_network,INSERT,{Trunk of left internal iliac vein;Venae comitantes of left inferior gluteal vein}
+venous_network,INSERT,{Trunk of left internal iliac vein;Venae comitantes of left internal pudendal vein}
+venous_network,INSERT,{Trunk of inferior mesenteric vein;Trunk of left colic vein}
+arterial_network,INSERT,{Trunk of left internal pudendal artery;Trunk of left deep artery of the clitoris}
+arterial_network,INSERT,{Trunk of left internal pudendal artery;Trunk of left deep artery of the penis}
+arterial_network,INSERT,{Trunk of left superior vesical artery;Trunk of left artery of ductus deferens}
+venous_network,INSERT,{Trunk of left brachiocephalic vein;Trunk of left first posterior intercostal vein}
+arterial_network,INSERT,{Trunk of left inferior gluteal artery;Trunk of muscular branch of left inferior gluteal artery}
+arterial_network,INSERT,{Trunk of deep part of left superior gluteal artery;Trunk of inferior division of deep part of left superior gluteal artery}
+arterial_network,INSERT,{Trunk of left inferior gluteal artery;Trunk of coccygeal branch of left inferior gluteal artery}
+venous_network,INSERT,{Trunk of left internal iliac vein;Venae comitantes of left superior gluteal vein}
+arterial_network,INSERT,{Trunk of deep part of left superior gluteal artery;Trunk of superior division of deep part of left superior gluteal artery}
+arterial_network,INSERT,{Trunk of aorta;Trunk of left superior phrenic artery}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of left inferior phrenic vein}
+arterial_network,INSERT,{Trunk of left obturator artery;Trunk of iliac branch of left obturator artery}
+arterial_network,INSERT,{Trunk of left superior gluteal artery;Trunk of iliacus part of left superior gluteal artery}
+arterial_network,INSERT,{Trunk of left superior gluteal artery;Trunk of left nutrient artery to ilium}
+arterial_network,INSERT,{Trunk of ascending part of left deep circumflex iliac artery;Trunk of internal oblique division of ascending part of left deep circumflex iliac artery}
+venous_network,INSERT,{Trunk of hemiazygos vein;Trunk of left subcostal vein}
+venous_network,INSERT,{Trunk of left deep circumflex iliac vein;Venae comitantes of left deep circumflex iliac vein}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of posterior segmental artery of the left renal artery}
+venous_network,INSERT,{Trunk of left renal vein;Trunk of anterior tributary of left renal vein}
+venous_network,INSERT,{Trunk of left renal vein;Trunk of posterior tributary of left renal vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of left first lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of left second lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of left third lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of left fourth lumbar vein}
+venous_network,INSERT,{Trunk of left hepatic vein;Trunk of lateral superior segmental tributary of left hepatic vein}
+venous_network,INSERT,{Trunk of left hepatic vein;Trunk of lateral inferior segmental tributary of left hepatic vein}
+venous_network,INSERT,{Trunk of left hepatic vein;Trunk of medial superior segmental tributary of left hepatic vein}
+venous_network,INSERT,{Trunk of middle hepatic vein;Trunk of medial inferior segmental tributary of middle hepatic vein}
+venous_network,INSERT,{Trunk of left internal iliac vein;Trunk of left uterine vein}
+arterial_network,INSERT,{Trunk of left superior gluteal artery;Trunk of left artery to piriformis}
+venous_network,INSERT,{Trunk of left renal vein;Trunk of left ovarian vein}
+arterial_network,INSERT,{Trunk of left inferior gluteal artery;Trunk of left accompanying artery of ischiadic nerve}
+venous_network,INSERT,{Trunk of left superior intercostal vein;Trunk of left second posterior intercostal vein}
+arterial_network,INSERT,{Trunk of left internal pudendal artery;Trunk of left transverse perineal artery}
+venous_network,INSERT,{Trunk of left internal pudendal vein;Trunk of left transverse perineal vein}
+arterial_network,INSERT,{Trunk of ascending part of left deep circumflex iliac artery;Trunk of transversus abdominis division of ascending part of left deep circumflex iliac artery}
+venous_network,INSERT,{Coronary sinus;Trunk of great cardiac vein}
+venous_network,INSERT,{Coronary sinus;Trunk of left marginal vein}
+venous_network,INSERT,{Coronary sinus;Trunk of middle cardiac vein}
+arterial_network,INSERT,{Trunk of anterior interventricular branch of left coronary artery;Trunk of ventricular branch of anterior interventricular branch of left coronary artery}
+arterial_network,INSERT,{Trunk of posterior interventricular branch of left coronary artery;Trunk of ventricular branch of left posterior interventricular artery}
+arterial_network,INSERT,{Trunk of right coronary artery;Trunk of ventricular branch of right posterior interventricular artery}
+arterial_network,INSERT,{Trunk of celiac artery;Trunk of left gastric artery}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of right gastric vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of intermediate hepatic vein}
+arterial_network,INSERT,{Trunk of right inferior gluteal artery;Trunk of muscular branch of right inferior gluteal artery}
+venous_network,INSERT,{Trunk of right internal iliac vein;Venae comitantes of right inferior gluteal vein}
+venous_network,INSERT,{Trunk of right internal iliac vein;Trunk of right obturator vein}
+arterial_network,INSERT,{Trunk of right obturator artery;Trunk of posterior branch of right obturator artery}
+venous_network,INSERT,{Trunk of right internal iliac vein;Trunk of right vaginal vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of left second lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of right second lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of left third lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of spinal tributary of right third lumbar vein}
+arterial_network,INSERT,{Trunk of left second lumbar artery;Trunk of spinal branch of posterior ramus of left second lumbar artery}
+arterial_network,INSERT,{Trunk of left third lumbar artery;Trunk of spinal branch of posterior ramus of left third lumbar artery}
+arterial_network,INSERT,{Trunk of right second lumbar artery;Trunk of spinal branch of posterior ramus of right second lumbar artery}
+arterial_network,INSERT,{Trunk of right third lumbar artery;Trunk of spinal branch of posterior ramus of right third lumbar artery}
+arterial_network,INSERT,{Trunk of left fifth lumbar artery;Trunk of posterior ramus of left fifth lumbar artery}
+arterial_network,INSERT,{Trunk of left first lumbar artery;Trunk of posterior ramus of left first lumbar artery}
+arterial_network,INSERT,{Trunk of left fourth lumbar artery;Trunk of posterior ramus of left fourth lumbar artery}
+arterial_network,INSERT,{Trunk of left second lumbar artery;Trunk of posterior ramus of left second lumbar artery}
+arterial_network,INSERT,{Trunk of left third lumbar artery;Trunk of posterior ramus of left third lumbar artery}
+arterial_network,INSERT,{Trunk of right fifth lumbar artery;Trunk of posterior ramus of right fifth lumbar artery}
+arterial_network,INSERT,{Trunk of right first lumbar artery;Trunk of posterior ramus of right first lumbar artery}
+arterial_network,INSERT,{Trunk of right fourth lumbar artery;Trunk of posterior ramus of right fourth lumbar artery}
+arterial_network,INSERT,{Trunk of right second lumbar artery;Trunk of posterior ramus of right second lumbar artery}
+arterial_network,INSERT,{Trunk of right third lumbar artery;Trunk of posterior ramus of right third lumbar artery}
+arterial_network,INSERT,{Trunk of left obturator artery;Trunk of pubic branch of left obturator artery}
+arterial_network,INSERT,{Trunk of right obturator artery;Trunk of pubic branch of right obturator artery}
+venous_network,INSERT,{Right atrium;Trunk of smallest cardiac vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right ninth posterior intercostal vein}
+venous_network,INSERT,{Trunk of hemiazygos vein;Trunk of left ninth posterior intercostal vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of pericardial vein}
+arterial_network,INSERT,{Trunk of right internal pudendal artery;Trunk of right transverse perineal artery}
+venous_network,INSERT,{Trunk of right internal pudendal vein;Trunk of right transverse perineal vein}
+arterial_network,INSERT,{Trunk of left uterine artery;Trunk of left posterior azygos artery of vagina}
+arterial_network,INSERT,{Trunk of right uterine artery;Trunk of right posterior azygos artery of vagina}
+venous_network,INSERT,{Trunk of left internal iliac vein;Trunk of left middle rectal vein}
+venous_network,INSERT,{Trunk of left internal iliac vein;Trunk of left vesical vein}
+venous_network,INSERT,{Trunk of right internal iliac vein;Trunk of right middle rectal vein}
+venous_network,INSERT,{Trunk of right internal iliac vein;Trunk of right vesical vein}
+arterial_network,INSERT,{Trunk of right obturator artery;Trunk of anterior branch of right obturator artery}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of left inferior suprarenal artery branch of left renal artery}
+arterial_network,INSERT,{Trunk of right inferior phrenic artery;Trunk of right superior suprarenal artery branch of right inferior phrenic artery}
+venous_network,INSERT,{Trunk of anterior cardiac vein;Trunk of right marginal vein}
+venous_network,INSERT,{Trunk of right internal iliac vein;Venae comitantes of right internal pudendal vein}
+arterial_network,INSERT,{Trunk of right internal pudendal artery;Trunk of right deep artery of the clitoris}
+arterial_network,INSERT,{Trunk of right internal pudendal artery;Trunk of right deep artery of the penis}
+arterial_network,INSERT,{Trunk of right superior vesical artery;Trunk of right artery of ductus deferens}
+venous_network,INSERT,{Trunk of right brachiocephalic vein;Trunk of right first posterior intercostal vein}
+arterial_network,INSERT,{Trunk of deep part of right superior gluteal artery;Trunk of inferior division of deep part of right superior gluteal artery}
+arterial_network,INSERT,{Trunk of right inferior gluteal artery;Trunk of coccygeal branch of right inferior gluteal artery}
+venous_network,INSERT,{Trunk of right internal iliac vein;Venae comitantes of right superior gluteal vein}
+arterial_network,INSERT,{Trunk of deep part of right superior gluteal artery;Trunk of superior division of deep part of right superior gluteal artery}
+arterial_network,INSERT,{Trunk of aorta;Trunk of right superior phrenic artery}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of right inferior phrenic vein}
+arterial_network,INSERT,{Trunk of right obturator artery;Trunk of iliac branch of right obturator artery}
+arterial_network,INSERT,{Trunk of right superior gluteal artery;Trunk of iliacus part of right superior gluteal artery}
+arterial_network,INSERT,{Trunk of right superior gluteal artery;Trunk of right nutrient artery to ilium}
+arterial_network,INSERT,{Trunk of ascending part of right deep circumflex iliac artery;Trunk of internal oblique division of ascending part of right deep circumflex iliac artery}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right subcostal vein}
+venous_network,INSERT,{Trunk of right deep circumflex iliac vein;Venae comitantes of right deep circumflex iliac vein}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of posterior segmental artery of the right renal artery}
+venous_network,INSERT,{Trunk of right renal vein;Trunk of anterior tributary of right renal vein}
+venous_network,INSERT,{Trunk of right renal vein;Trunk of posterior tributary of right renal vein}
+venous_network,INSERT,{Trunk of right hepatic vein;Trunk of anterior superior segmental tributary of right hepatic vein}
+venous_network,INSERT,{Trunk of right hepatic vein;Trunk of anterior inferior segmental tributary of right hepatic vein}
+venous_network,INSERT,{Trunk of right hepatic vein;Trunk of posterior superior segmental tributary of right hepatic vein}
+venous_network,INSERT,{Trunk of right hepatic vein;Trunk of posterior inferior segmental tributary of right hepatic vein}
+venous_network,INSERT,{Trunk of right internal iliac vein;Trunk of right uterine vein}
+arterial_network,INSERT,{Trunk of right superior gluteal artery;Trunk of right artery to piriformis}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of right ovarian vein}
+arterial_network,INSERT,{Trunk of right inferior gluteal artery;Trunk of right accompanying artery of ischiadic nerve}
+venous_network,INSERT,{Trunk of right superior intercostal vein;Trunk of right second posterior intercostal vein}
+arterial_network,INSERT,{Trunk of ascending part of right deep circumflex iliac artery;Trunk of transversus abdominis division of ascending part of right deep circumflex iliac artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of ascending ureteral branches of the right renal artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of descending ureteral branches of the right renal artery}
+venous_network,INSERT,{Trunk of right renal vein;Trunk of ureteral tributary of right renal vein}
+venous_network,INSERT,{Trunk of accessory hemiazygos vein;Trunk of left seventh posterior intercostal vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right seventh posterior intercostal vein}
+venous_network,INSERT,{Trunk of accessory hemiazygos vein;Trunk of left sixth posterior intercostal vein}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right sixth posterior intercostal vein}
+arterial_network,INSERT,{Trunk of left inferior gluteal artery;Trunk of cutaneous branch of left inferior gluteal artery}
+arterial_network,INSERT,{Trunk of right inferior gluteal artery;Trunk of cutaneous branch of right inferior gluteal artery}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of right third lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of right fourth lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of right first lumbar vein}
+venous_network,INSERT,{Trunk of inferior vena cava;Trunk of dorsal tributary of right second lumbar vein}
+arterial_network,INSERT,{Trunk of right subcostal artery;Trunk of posterior branch of right subcostal artery}
+arterial_network,INSERT,{Trunk of celiac artery;Trunk of splenic artery}
+venous_network,INSERT,{Trunk of pre-hepatic portal vein;Trunk of splenic vein}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of superior segmental artery of the left renal artery}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of anterosuperior segmental artery of the left renal artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of superior segmental artery of the right renal artery}
+arterial_network,INSERT,{Trunk of right renal artery;Trunk of anterosuperior segmental artery of the right renal artery}
+arterial_network,INSERT,{Trunk of left subcostal artery;Trunk of posterior branch of left subcostal artery}
+venous_network,INSERT,{Trunk of azygos vein;Trunk of right tenth posterior intercostal vein}
+venous_network,INSERT,{Trunk of hemiazygos vein;Trunk of left tenth posterior intercostal vein}
+venous_network,INSERT,{Trunk of left superior intercostal vein;Trunk of left third posterior intercostal vein}
+venous_network,INSERT,{Trunk of right superior intercostal vein;Trunk of right third posterior intercostal vein}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of left gastric vein}
+arterial_network,INSERT,{Trunk of ileocolic artery;Trunk of colic branch of inferior branch of ileocolic artery}
+venous_network,INSERT,{Trunk of ileocolic vein;Trunk of cecal tributary of ileocolic vein}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of right colic vein}
+arterial_network,INSERT,{Trunk of inferior branch of ileocolic artery;Trunk of anterior cecal artery of inferior branch of ileocolic artery}
+arterial_network,INSERT,{Trunk of inferior branch of ileocolic artery;Trunk of posterior cecal artery of inferior branch of ileocolic artery}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of cystic vein}
+venous_network,INSERT,{Trunk of inferior mesenteric vein;Trunk of sigmoid vein}
+arterial_network,INSERT,{Trunk of anterior division of left internal iliac artery;Trunk of left middle vesical artery}
+arterial_network,INSERT,{Trunk of anterior division of right internal iliac artery;Trunk of right middle vesical artery}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of ileal vein}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of jejunal vein}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of ascending ureteral branches of the left renal artery}
+arterial_network,INSERT,{Trunk of left renal artery;Trunk of descending ureteral branches of the left renal artery}
+venous_network,INSERT,{Trunk of left renal vein;Trunk of ureteral tributary of left renal vein}
+arterial_network,INSERT,{Trunk of left umbilical artery;Trunk of left superior vesical artery}
+venous_network,INSERT,{Trunk of inferior mesenteric vein;Trunk of superior rectal vein}
+arterial_network,INSERT,{Trunk of right umbilical artery;Trunk of right superior vesical artery}
+venous_network,INSERT,{Trunk of inferior thyroid vein;Trunk of esophageal vein}
+venous_network,INSERT,{Trunk of superior mesenteric vein;Trunk of middle colic vein}
+arterial_network,INSERT,{Trunk of left obturator artery;Trunk of vesical branch of left obturator artery}
+arterial_network,INSERT,{Trunk of right obturator artery;Trunk of vesical branch of right obturator artery}
+arterial_network,INSERT,{Trunk of common iliac artery;Trunk of hypogastric artery}
+arterial_network,INSERT,{Trunk of common hepatic artery;Trunk of right hepatic artery}
+arterial_network,INSERT,{Trunk of aorta;Trunk of left first posterior intercostal artery}
+arterial_network,INSERT,{Trunk of aorta;Trunk of right first posterior intercostal artery}
+arterial_network,INSERT,{Left thyrocervical trunk;Trunk of left suprascapular artery}
+arterial_network,INSERT,{Trunk of left axillary artery;Trunk of left thoracoacromial artery}
+arterial_network,INSERT,{Left thyrocervical trunk;Trunk of left inferior thyroid artery}
+arterial_network,INSERT,{Left thyrocervical trunk;Trunk of left transverse scapular artery}
+arterial_network,INSERT,{Trunk of left thoracoacromial artery;Trunk of left acromial branch of thoracoacromial artery}
+venous_network,INSERT,{Trunk of left facial vein;Trunk of left inferior labial vein}
+venous_network,INSERT,{Trunk of right facial vein;Trunk of right inferior labial vein}
+venous_network,INSERT,{Trunk of left inferior thyroid vein;Trunk of left inferior laryngeal vein}
+venous_network,INSERT,{Trunk of left superior thyroid vein;Trunk of left superior laryngeal vein}
+venous_network,INSERT,{Trunk of right inferior thyroid vein;Trunk of right inferior laryngeal vein}
+venous_network,INSERT,{Trunk of right superior thyroid vein;Trunk of right superior laryngeal vein}
+arterial_network,INSERT,{Right thyrocervical trunk;Trunk of right inferior thyroid artery}
+arterial_network,INSERT,{Trunk of left external iliac artery proper;Trunk of left inferior epigastric artery}
+arterial_network,INSERT,{Trunk of right external iliac artery proper;Trunk of right inferior epigastric artery}
+arterial_network,INSERT,{Trunk of left second posterior intercostal artery;Trunk of pleural branch of left second posterior intercostal artery}
+arterial_network,INSERT,{Trunk of right first posterior intercostal artery;Trunk of pleural branch of right first posterior intercostal artery}
+arterial_network,INSERT,{Trunk of right second posterior intercostal artery;Trunk of pleural branch of right second posterior intercostal artery}
+arterial_network,INSERT,{Right thyrocervical trunk;Trunk of right suprascapular artery}
+arterial_network,INSERT,{Trunk of right axillary artery;Trunk of right thoracoacromial artery}
+arterial_network,INSERT,{Thyrocervical trunk;Trunk of right transverse scapular artery}
+arterial_network,INSERT,{Trunk of right thoracoacromial artery;Trunk of acromial branch of right thoracoacromial artery}
+arterial_network,INSERT,{Trunk of aorta;Trunk of left second posterior intercostal artery}
+arterial_network,INSERT,{Trunk of aorta;Trunk of right second posterior intercostal artery}
+arterial_network,INSERT,{Trunk of left second posterior intercostal artery;Trunk of spinal branch of dorsal branch of left second posterior intercostal artery}
+arterial_network,INSERT,{Thyrocervical trunk;Trunk of right inferior thyroid artery}
+arterial_network,INSERT,{Thyrocervical trunk;Trunk of left inferior thyroid artery}
+venous_network,INSERT,{Trunk of left facial vein;Trunk of left superior labial vein}
+venous_network,INSERT,{Trunk of right facial vein;Trunk of right superior labial vein}
+arterial_network,INSERT,{Trunk of left lateral basal segmental artery;Trunk of lateral branch of left anterior basal segmental artery}
+arterial_network,INSERT,{Trunk of left lateral basal segmental artery;Trunk of basal branch of left anterior basal segmental artery}
+venous_network,INSERT,{Trunk of left apical segmental vein;Trunk of intrasegmental tributary of left apical segmental vein}
+venous_network,INSERT,{Trunk of left apical segmental vein;Trunk of apical part of left apical segmental vein}
+venous_network,INSERT,{Trunk of superior lingular vein;Trunk of intrasegmental tributary of left anterior segmental vein}
+venous_network,INSERT,{Trunk of superior lingular vein;Trunk of inferior part of anterior segmental vein}
+venous_network,INSERT,{Trunk of superior lingular vein;Trunk of intrasegmental tributary of superior lingular vein}
+venous_network,INSERT,{Trunk of superior lingular vein;Trunk of subsegmental part of superior lingular vein}
+venous_network,INSERT,{Trunk of inferior lingular vein;Trunk of intrasegmental tributary of inferior lingular vein}
+venous_network,INSERT,{Trunk of right femoral vein;Trunk of right lateral circumflex femoral vein}
+venous_network,INSERT,{Trunk of left femoral vein;Trunk of left lateral circumflex femoral vein}
+venous_network,INSERT,{Trunk of right femoral vein;Trunk of right deep femoral vein}
+venous_network,INSERT,{Trunk of left femoral vein;Trunk of left deep femoral vein}
+venous_network,INSERT,{Trunk of hemiazygos vein;Trunk of left eighth posterior intercostal vein}
+arterial_network,INSERT,{Trunk of right internal thoracic artery;Trunk of sternal branch of right internal thoracic artery}
+arterial_network,INSERT,{Trunk of left internal thoracic artery;Trunk of sternal branch of left internal thoracic artery}
+venous_network,INSERT,{Trunk of right internal thoracic vein;Trunk of sternal tributary of right internal thoracic vein}
+venous_network,INSERT,{Trunk of left internal thoracic vein;Trunk of sternal tributary of left internal thoracic vein}
+venous_network,INSERT,{Trunk of right iliolumbar vein;Trunk of iliac part of right iliolumbar vein}
+venous_network,INSERT,{Trunk of left iliolumbar vein;Trunk of iliac part of left iliolumbar vein}

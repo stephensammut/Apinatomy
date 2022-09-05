@@ -1,0 +1,10 @@
+#Wed Jul 06 14:35:01 BST 2011
+property_file_version=1
+sql_schema_file=apinatomy.sql
+inclusion_folder=inclusions
+microcirculations_file=insert_data_microcirculations.csv
+branching_order_file=vascular_branch_order.txt
+static_ids_file= apinatomyIDs.csv
+vascular_networks_file = insert_data_vascularnetworks.csv
+id_counter=2000000
+

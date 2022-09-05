@@ -1,0 +1,1378 @@
+microcirculations,INSERT,{Trunk of left superior temporal retinal vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior temporal retinal vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of left superior nasal retinal vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior nasal retinal vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of left superior macular vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior macular vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of left middle macular vein;58303;VEN;N}
+microcirculations,INSERT,{Trunk of right superior temporal retinal vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior temporal retinal vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of right superior nasal retinal vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior nasal retinal vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of right superior macular vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior macular vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of right middle macular vein;58302;VEN;N}
+microcirculations,INSERT,{Trunk of superior temporal retinal vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of inferior temporal retinal vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of superior nasal retinal vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of inferior nasal retinal vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of superior macular vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of inferior macular vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of middle macular vein;58301;VEN;N}
+microcirculations,INSERT,{Trunk of left superior choroid vein;242787;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior choroid vein;242787;VEN;N}
+microcirculations,INSERT,{Trunk of right superior choroid vein;242787;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior choroid vein;242787;VEN;N}
+microcirculations,INSERT,{Trunk of right musculophrenic artery;52359;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;52359;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;72197;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;72197;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;86709;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;86709;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;86704;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;86704;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;52361;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;52361;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;13333;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;13333;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;20391;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;20391;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;16554;ART;N}
+microcirculations,INSERT,{Trunk of right musculophrenic vein;16554;VEN;N}
+microcirculations,INSERT,{Trunk of right musculophrenic artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left inferior rectal artery;28008;ART;N}
+microcirculations,INSERT,{Trunk of left inferior rectal vein;28008;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior rectal artery;28008;ART;N}
+microcirculations,INSERT,{Trunk of right inferior rectal vein;28008;VEN;N}
+microcirculations,INSERT,{Trunk of muscular part of left inferior epigastric artery;14627;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;14627;VEN;N}
+microcirculations,INSERT,{Trunk of muscular part of right inferior epigastric artery;14627;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;14627;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;52360;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;52360;VEN;N}
+microcirculations,INSERT,{Trunk of first anterior ventricular branch of circumflex coronary artery;9560;ART;N}
+microcirculations,INSERT,{Trunk of second anterior ventricular branch of circumflex coronary artery;9560;ART;N}
+microcirculations,INSERT,{Trunk of third anterior ventricular branch of circumflex coronary artery;9560;ART;N}
+microcirculations,INSERT,{Trunk of atrial branch of right coronary artery;9245;ART;N}
+microcirculations,INSERT,{Trunk of anterior cardiac vein;9553;VEN;N}
+microcirculations,INSERT,{Trunk of anterior ventricular branch of right coronary artery;9553;ART;N}
+microcirculations,INSERT,{Trunk of right conus artery;9553;ART;N}
+microcirculations,INSERT,{Trunk of marginal branch of right coronary artery;9553;ART;N}
+microcirculations,INSERT,{Trunk of left gastroepiploic vein;14583;VEN;N}
+microcirculations,INSERT,{Trunk of right gastroepiploic vein;14583;VEN;N}
+microcirculations,INSERT,{Trunk of left anterior azygos artery of vagina;19972;ART;N}
+microcirculations,INSERT,{Trunk of right anterior azygos artery of vagina;19972;ART;N}
+microcirculations,INSERT,{Trunk of left marginal artery;7164;ART;N}
+microcirculations,INSERT,{Trunk of mediastinal artery;57870;ART;N}
+microcirculations,INSERT,{Trunk of mediastinal vein;57870;VEN;N}
+microcirculations,INSERT,{Trunk of articular branch of left inferior gluteal artery;42980;ART;N}
+microcirculations,INSERT,{Trunk of articular branch of right inferior gluteal artery;42979;ART;N}
+microcirculations,INSERT,{Trunk of atrioventricular node branch of circumflex coronary artery;9478;ART;N}
+microcirculations,INSERT,{Trunk of septal branch of right posterior interventricular artery;9478;ART;N}
+microcirculations,INSERT,{Trunk of pancreatic tributary of splenic artery;14518;ART;N}
+microcirculations,INSERT,{Trunk of pancreatic tributary of splenic vein;14518;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62821;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62821;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62821;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62821;VEN;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62821;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of urethral bulb;19614;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of left penile bulb vein;19614;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of urethral bulb;19614;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of right penile bulb vein;19614;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;52590;VEN;N}
+microcirculations,INSERT,{Trunk of spinal division of lumbar part of left iliolumbar artery;52590;ART;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;52590;VEN;N}
+microcirculations,INSERT,{Trunk of spinal division of lumbar part of right iliolumbar artery;52590;ART;N}
+microcirculations,INSERT,{Trunk of hepatic vein of caudate lobe;13365;VEN;N}
+microcirculations,INSERT,{Trunk of right paracaval tributary of right hepatic vein;13365;VEN;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the clitoris;9909;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the clitoris;9909;ART;N}
+microcirculations,INSERT,{Trunk of median sacral vein;20229;VEN;N}
+microcirculations,INSERT,{Trunk of deep dorsal vein of clitoris;20172;VEN;N}
+microcirculations,INSERT,{Trunk of deep dorsal vein of penis;19618;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of urethral bulb;19617;ART;N}
+microcirculations,INSERT,{Trunk of left urethral artery;19617;ART;N}
+microcirculations,INSERT,{Trunk of left urethral vein;19617;VEN;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of left penile bulb vein;19617;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of urethral bulb;19617;ART;N}
+microcirculations,INSERT,{Trunk of right urethral artery;19617;ART;N}
+microcirculations,INSERT,{Trunk of right urethral vein;19617;VEN;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of right penile bulb vein;19617;VEN;N}
+microcirculations,INSERT,{Trunk of left cremasteric artery;74054;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;74054;VEN;N}
+microcirculations,INSERT,{Trunk of right cremasteric artery;74054;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;74054;VEN;N}
+microcirculations,INSERT,{Trunk of left testicular artery;21531;ART;N}
+microcirculations,INSERT,{Trunk of right testicular artery;21531;ART;N}
+microcirculations,INSERT,{Trunk of right testicular vein;21531;VEN;N}
+microcirculations,INSERT,{Trunk of left cremasteric artery;21531;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;21531;VEN;N}
+microcirculations,INSERT,{Trunk of left testicular vein;21531;VEN;N}
+microcirculations,INSERT,{Trunk of right cremasteric artery;21531;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;21531;VEN;N}
+microcirculations,INSERT,{Trunk of left perineal vein;20439;VEN;N}
+microcirculations,INSERT,{Trunk of posterior scrotal branches of left perineal artery;20439;ART;N}
+microcirculations,INSERT,{Trunk of right perineal vein;20438;VEN;N}
+microcirculations,INSERT,{Trunk of posterior scrotal branches of right perineal artery;20438;ART;N}
+microcirculations,INSERT,{Trunk of medial branch of left inferior phrenic artery;13295;ART;N}
+microcirculations,INSERT,{Trunk of medial branch of right inferior phrenic artery;13295;ART;N}
+microcirculations,INSERT,{Trunk of first posterior ventricular branch of right coronary artery;9289;ART;N}
+microcirculations,INSERT,{Trunk of second posterior ventricular branch of right coronary artery;9289;ART;N}
+microcirculations,INSERT,{Trunk of inferior pancreaticoduodenal artery;71134;ART;N}
+microcirculations,INSERT,{Trunk of pancreaticoduodenal vein;71134;VEN;N}
+microcirculations,INSERT,{Trunk of ileal branch of inferior branch of ileocolic artery;14966;ART;N}
+microcirculations,INSERT,{Trunk of ileal tributary of ileocolic vein;14966;VEN;N}
+microcirculations,INSERT,{Trunk of left lateral sacral vein;32505;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;32505;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of left lateral sacral artery;32505;ART;N}
+microcirculations,INSERT,{Trunk of right lateral sacral vein;32505;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;32505;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of right lateral sacral artery;32505;ART;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal vein;46365;VEN;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal artery;46365;ART;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal artery;46365;ART;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal vein;46365;VEN;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal vein;71154;VEN;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal artery;71154;ART;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal artery;71154;ART;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal vein;71154;VEN;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal vein;46376;VEN;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal artery;46376;ART;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal artery;46376;ART;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal vein;46376;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left eighth posterior intercostal artery;9991;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right eighth posterior intercostal artery;9991;ART;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal artery;46368;ART;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal artery;46368;ART;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal vein;46368;VEN;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal vein;46368;VEN;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal artery;71163;ART;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal artery;71163;ART;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal vein;71163;VEN;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal vein;71163;VEN;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal artery;46379;ART;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal artery;46379;ART;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal vein;46379;VEN;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal vein;46379;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left eleventh posterior intercostal artery;10059;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right eleventh posterior intercostal artery;10059;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric artery;20389;ART;N}
+microcirculations,INSERT,{Trunk of right superior epigastric artery;20389;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric vein;20389;VEN;N}
+microcirculations,INSERT,{Trunk of right superior epigastric vein;20389;VEN;N}
+microcirculations,INSERT,{Trunk of left cremasteric artery;69248;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;69248;VEN;N}
+microcirculations,INSERT,{Trunk of right cremasteric artery;69248;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;69248;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal vein;46362;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal artery;46362;ART;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal artery;46362;ART;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal vein;46362;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal vein;71145;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal artery;71145;ART;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal artery;71145;ART;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal vein;71145;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal vein;46373;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal artery;46373;ART;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal artery;46373;ART;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal vein;46373;VEN;N}
+microcirculations,INSERT,{Trunk of median sacral vein;13076;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left fifth lumbar artery;13076;ART;N}
+microcirculations,INSERT,{Trunk of lumbar branch of median sacral artery;13076;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right fifth lumbar artery;13076;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left fifth posterior intercostal artery;9922;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right fifth posterior intercostal artery;9922;ART;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left first lumbar vein;13072;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right first lumbar vein;13072;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left first lumbar artery;13072;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right first lumbar artery;13072;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right first posterior intercostal artery;9209;ART;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal vein;46361;VEN;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal artery;46361;ART;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal artery;46361;ART;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal vein;46361;VEN;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal vein;71142;VEN;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal artery;71142;ART;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal artery;71142;ART;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal vein;71142;VEN;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal vein;46372;VEN;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal artery;46372;ART;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal artery;46372;ART;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal vein;46372;VEN;N}
+microcirculations,INSERT,{Trunk of median sacral vein;13075;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left fourth lumbar vein;13075;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right fourth lumbar vein;13075;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left fourth lumbar artery;13075;ART;N}
+microcirculations,INSERT,{Trunk of lumbar branch of median sacral artery;13075;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right fourth lumbar artery;13075;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left fourth posterior intercostal artery;9248;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right fourth posterior intercostal artery;9248;ART;N}
+microcirculations,INSERT,{Trunk of short gastric artery;14559;ART;N}
+microcirculations,INSERT,{Trunk of short gastric vein;14559;VEN;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the clitoris;19999;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the clitoris;19999;ART;N}
+microcirculations,INSERT,{Trunk of deep dorsal vein of penis;18247;VEN;N}
+microcirculations,INSERT,{Trunk of left urethral artery;18247;ART;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the penis;18247;ART;N}
+microcirculations,INSERT,{Trunk of left urethral vein;18247;VEN;N}
+microcirculations,INSERT,{Trunk of right urethral artery;18247;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the penis;18247;ART;N}
+microcirculations,INSERT,{Trunk of right urethral vein;18247;VEN;N}
+microcirculations,INSERT,{Trunk of right gastro-epiploic artery;14574;ART;N}
+microcirculations,INSERT,{Trunk of left gastro-epiploic artery;14574;ART;N}
+microcirculations,INSERT,{Trunk of short gastric vein;14574;VEN;N}
+microcirculations,INSERT,{Trunk of left gastro-epiploic artery;9580;ART;N}
+microcirculations,INSERT,{Trunk of left gastroepiploic vein;9580;VEN;N}
+microcirculations,INSERT,{Trunk of right gastroepiploic vein;9580;VEN;N}
+microcirculations,INSERT,{Trunk of anterior superior pancreaticoduodenal artery;10468;ART;N}
+microcirculations,INSERT,{Trunk of posterior superior pancreaticoduodenal artery;10468;ART;N}
+microcirculations,INSERT,{Trunk of inferior pancreaticoduodenal artery;10468;ART;N}
+microcirculations,INSERT,{Trunk of pancreaticoduodenal vein;10468;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;72197;VEN;N}
+microcirculations,INSERT,{Trunk of anteroinferior segmental artery of the left renal artery;15609;ART;N}
+microcirculations,INSERT,{Trunk of inferior segmental artery of the left renal artery;15609;ART;N}
+microcirculations,INSERT,{Trunk of anteroinferior segmental artery of the right renal artery;15608;ART;N}
+microcirculations,INSERT,{Trunk of inferior segmental artery of the right renal artery;15608;ART;N}
+microcirculations,INSERT,{Trunk of posterior vein of the left ventricle;9561;VEN;N}
+microcirculations,INSERT,{Trunk of first posterior ventricular branch of circumflex coronary artery;9561;ART;N}
+microcirculations,INSERT,{Trunk of second posterior ventricular branch of circumflex coronary artery;9561;ART;N}
+microcirculations,INSERT,{Trunk of third posterior ventricular branch of circumflex coronary artery;9561;ART;N}
+microcirculations,INSERT,{Trunk of small cardiac vein;9555;VEN;N}
+microcirculations,INSERT,{Trunk of marginal branch of right coronary artery;9555;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of left inferior phrenic artery;12243;ART;N}
+microcirculations,INSERT,{Trunk of left cremasteric artery;77299;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;77299;VEN;N}
+microcirculations,INSERT,{Trunk of right cremasteric artery;77299;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;77299;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;52362;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;52362;VEN;N}
+microcirculations,INSERT,{Trunk of intermediate atrial branch of circumflex coronary artery;9306;ART;N}
+microcirculations,INSERT,{Trunk of first posterior ventricular branch of circumflex coronary artery;9563;ART;N}
+microcirculations,INSERT,{Trunk of second posterior ventricular branch of circumflex coronary artery;9563;ART;N}
+microcirculations,INSERT,{Trunk of third posterior ventricular branch of circumflex coronary artery;9563;ART;N}
+microcirculations,INSERT,{Trunk of atrial branch of right coronary artery;9537;ART;N}
+microcirculations,INSERT,{Trunk of intermediate atrial branch of right coronary artery;9537;ART;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22454;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of left obturator artery;22454;ART;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22457;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of left obturator artery;22457;ART;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22460;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of left obturator artery;22460;ART;N}
+microcirculations,INSERT,{Trunk of posterior branch of left obturator artery;22460;ART;N}
+microcirculations,INSERT,{Trunk of left superior suprarenal artery branch of left inferior phrenic artery;15630;ART;N}
+microcirculations,INSERT,{Trunk of right inferior suprarenal artery branch of right renal artery;15630;ART;N}
+microcirculations,INSERT,{Trunk of oblique vein of the left atrium;7097;VEN;N}
+microcirculations,INSERT,{Trunk of atrial anastomotic branch of circumflex coronary artery;7097;ART;N}
+microcirculations,INSERT,{Trunk of artery of sinuatrial node branch of right coronary artery;7097;ART;N}
+microcirculations,INSERT,{Trunk of left vaginal artery;74318;ART;N}
+microcirculations,INSERT,{Trunk of left vaginal vein;74318;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of urethral bulb;74318;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of left penile bulb vein;74318;VEN;N}
+microcirculations,INSERT,{Trunk of left perineal artery;21922;ART;N}
+microcirculations,INSERT,{Trunk of left perineal vein;21922;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of urethral bulb;20018;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of left penile bulb vein;20018;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior gluteal artery;46444;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;46444;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left internal pudendal vein;46444;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of left internal pudendal artery;46444;ART;N}
+microcirculations,INSERT,{Trunk of left colic vein;14551;VEN;N}
+microcirculations,INSERT,{Trunk of ascending branch of left colic artery;14551;ART;N}
+microcirculations,INSERT,{Trunk of left deep artery of the clitoris;20174;ART;N}
+microcirculations,INSERT,{Trunk of left deep artery of the penis;19620;ART;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the penis;19620;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;13334;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;13334;VEN;N}
+microcirculations,INSERT,{Trunk of left testicular artery;18257;ART;N}
+microcirculations,INSERT,{Trunk of left testicular vein;18257;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of ductus deferens;18257;ART;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;13337;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of left iliolumbar artery;13337;ART;N}
+microcirculations,INSERT,{Trunk of left obturator vein;24475;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of left obturator artery;24475;ART;N}
+microcirculations,INSERT,{Trunk of left lateral sacral vein;6437;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;6437;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of left lateral sacral artery;6437;ART;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal vein;9777;VEN;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal vein;71137;VEN;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal vein;9801;VEN;N}
+microcirculations,INSERT,{Trunk of left lateral sacral vein;6429;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;6429;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of left lateral sacral artery;6429;ART;N}
+microcirculations,INSERT,{Trunk of left lateral sacral vein;6435;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;6435;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of left lateral sacral artery;6435;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;22337;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22337;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;22335;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22335;VEN;N}
+microcirculations,INSERT,{Trunk of inferior division of deep part of left superior gluteal artery;22329;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;22329;ART;N}
+microcirculations,INSERT,{Trunk of coccygeal branch of left inferior gluteal artery;22329;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;22329;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22329;VEN;N}
+microcirculations,INSERT,{Trunk of superficial part of left superior gluteal artery;22329;ART;N}
+microcirculations,INSERT,{Trunk of inferior division of deep part of left superior gluteal artery;22331;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;22331;VEN;N}
+microcirculations,INSERT,{Trunk of superior division of deep part of left superior gluteal artery;22333;ART;N}
+microcirculations,INSERT,{Trunk of inferior division of deep part of left superior gluteal artery;22333;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;22333;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;43884;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of left obturator artery;43884;ART;N}
+microcirculations,INSERT,{Trunk of left superior phrenic artery;57859;ART;N}
+microcirculations,INSERT,{Trunk of left inferior phrenic vein;57859;VEN;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;20392;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;20392;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;22323;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of left iliolumbar artery;22323;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;22323;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22323;VEN;N}
+microcirculations,INSERT,{Trunk of iliac branch of left obturator artery;22323;ART;N}
+microcirculations,INSERT,{Trunk of iliacus part of left superior gluteal artery;22323;ART;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;16591;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of left iliolumbar artery;16591;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;16591;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;16591;VEN;N}
+microcirculations,INSERT,{Trunk of iliac branch of left obturator artery;16591;ART;N}
+microcirculations,INSERT,{Trunk of left nutrient artery to ilium;16591;ART;N}
+microcirculations,INSERT,{Trunk of left subcostal artery;13893;ART;N}
+microcirculations,INSERT,{Trunk of internal oblique division of ascending part of left deep circumflex iliac artery;13893;ART;N}
+microcirculations,INSERT,{Trunk of left subcostal vein;13893;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;13893;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left deep circumflex iliac vein;13893;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of left iliolumbar artery;13893;ART;N}
+microcirculations,INSERT,{Trunk of left perineal artery;21924;ART;N}
+microcirculations,INSERT,{Trunk of left perineal vein;21924;VEN;N}
+microcirculations,INSERT,{Trunk of posterior segmental artery of the left renal artery;7205;ART;N}
+microcirculations,INSERT,{Trunk of anterior tributary of left renal vein;7205;VEN;N}
+microcirculations,INSERT,{Trunk of posterior tributary of left renal vein;7205;VEN;N}
+microcirculations,INSERT,{Trunk of left perineal artery;20372;ART;N}
+microcirculations,INSERT,{Trunk of left perineal vein;20372;VEN;N}
+microcirculations,INSERT,{Trunk of left perineal artery;20381;ART;N}
+microcirculations,INSERT,{Trunk of left perineal vein;20381;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left first lumbar vein;14605;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left second lumbar vein;14605;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left third lumbar vein;14605;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left fourth lumbar vein;14605;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior gluteal artery;82939;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;82939;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left internal pudendal vein;82939;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of left internal pudendal artery;82939;ART;N}
+microcirculations,INSERT,{Trunk of left hepatic artery;13363;ART;N}
+microcirculations,INSERT,{Trunk of lateral superior segmental tributary of left hepatic vein;13363;VEN;N}
+microcirculations,INSERT,{Trunk of lateral inferior segmental tributary of left hepatic vein;13363;VEN;N}
+microcirculations,INSERT,{Trunk of medial superior segmental tributary of left hepatic vein;13363;VEN;N}
+microcirculations,INSERT,{Trunk of medial inferior segmental tributary of middle hepatic vein;13363;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22327;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of left obturator artery;22327;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;22325;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left internal pudendal vein;22325;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of left internal pudendal artery;22325;ART;N}
+microcirculations,INSERT,{Trunk of obturator internus part of left superior gluteal artery;22325;ART;N}
+microcirculations,INSERT,{Trunk of left uterine artery;7214;ART;N}
+microcirculations,INSERT,{Trunk of left uterine vein;7214;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22451;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of left obturator artery;22451;ART;N}
+microcirculations,INSERT,{Trunk of left inferior gluteal artery;22341;ART;N}
+microcirculations,INSERT,{Venae comitantes of left superior gluteal vein;22341;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22341;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left internal pudendal vein;22341;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of left internal pudendal artery;22341;ART;N}
+microcirculations,INSERT,{Trunk of left artery to piriformis;22341;ART;N}
+microcirculations,INSERT,{Trunk of mediastinal artery;5949;ART;N}
+microcirculations,INSERT,{Trunk of mediastinal vein;5949;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;22343;VEN;N}
+microcirculations,INSERT,{Trunk of lumbar part of left iliolumbar artery;22343;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;22339;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22339;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;22349;VEN;N}
+microcirculations,INSERT,{Trunk of lumbar part of left iliolumbar artery;22349;ART;N}
+microcirculations,INSERT,{Trunk of muscular part of left inferior epigastric artery;13378;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;13378;VEN;N}
+microcirculations,INSERT,{Trunk of left superior epigastric artery;13378;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric vein;13378;VEN;N}
+microcirculations,INSERT,{Trunk of left uterine artery;57790;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;57790;ART;N}
+microcirculations,INSERT,{Trunk of left uterine vein;57790;VEN;N}
+microcirculations,INSERT,{Trunk of left ovarian vein;57790;VEN;N}
+microcirculations,INSERT,{Trunk of left accompanying artery of ischiadic nerve;22112;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22112;VEN;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal vein;9778;VEN;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal vein;9813;VEN;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal vein;9802;VEN;N}
+microcirculations,INSERT,{Trunk of left lateral sacral vein;6431;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;6431;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of left lateral sacral artery;6431;ART;N}
+microcirculations,INSERT,{Trunk of caudate lobe branch of left hepatic artery;14504;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;22449;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22449;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22449;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of left obturator artery;22449;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;22359;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;22359;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;22359;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of left obturator artery;22359;ART;N}
+microcirculations,INSERT,{Trunk of left transverse perineal artery;21920;ART;N}
+microcirculations,INSERT,{Trunk of left transverse perineal vein;21920;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of ductus deferens;7212;ART;N}
+microcirculations,INSERT,{Trunk of left lateral sacral vein;6433;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;6433;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of left lateral sacral artery;6433;ART;N}
+microcirculations,INSERT,{Trunk of left subcostal artery;22345;ART;N}
+microcirculations,INSERT,{Trunk of transversus abdominis division of ascending part of left deep circumflex iliac artery;22345;ART;N}
+microcirculations,INSERT,{Trunk of left subcostal vein;22345;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left iliolumbar vein;22345;VEN;N}
+microcirculations,INSERT,{Venae comitantes of left deep circumflex iliac vein;22345;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of left iliolumbar artery;22345;ART;N}
+microcirculations,INSERT,{Trunk of great cardiac vein;7101;VEN;N}
+microcirculations,INSERT,{Trunk of left marginal vein;7101;VEN;N}
+microcirculations,INSERT,{Trunk of middle cardiac vein;7101;VEN;N}
+microcirculations,INSERT,{Trunk of ventricular branch of anterior interventricular branch of left coronary artery;7101;ART;N}
+microcirculations,INSERT,{Trunk of ventricular branch of left posterior interventricular artery;7101;ART;N}
+microcirculations,INSERT,{Trunk of ventricular branch of right posterior interventricular artery;7101;ART;N}
+microcirculations,INSERT,{Trunk of left gastric artery;14572;ART;N}
+microcirculations,INSERT,{Trunk of right gastric artery;14572;ART;N}
+microcirculations,INSERT,{Trunk of right gastric vein;14572;VEN;N}
+microcirculations,INSERT,{Trunk of intermediate hepatic vein;7197;VEN;N}
+microcirculations,INSERT,{Trunk of lateral branch of right inferior phrenic artery;7197;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of left inferior gluteal artery;45889;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior gluteal vein;45889;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;45889;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of left obturator artery;45889;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;45888;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;45888;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;45888;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of right obturator artery;45888;ART;N}
+microcirculations,INSERT,{Trunk of left vaginal artery;17871;ART;N}
+microcirculations,INSERT,{Trunk of right vaginal artery;17871;ART;N}
+microcirculations,INSERT,{Trunk of left vaginal vein;17871;VEN;N}
+microcirculations,INSERT,{Trunk of right vaginal vein;17871;VEN;N}
+microcirculations,INSERT,{Trunk of middle cardiac vein;7135;VEN;N}
+microcirculations,INSERT,{Trunk of posterior septal branch of anterior interventricular artery;7135;ART;N}
+microcirculations,INSERT,{Trunk of first septal branch of left posterior interventricular artery;7135;ART;N}
+microcirculations,INSERT,{Trunk of second septal branch of left posterior interventricular artery;7135;ART;N}
+microcirculations,INSERT,{Trunk of third septal branch of left posterior interventricular artery;7135;ART;N}
+microcirculations,INSERT,{Trunk of septal branch of right posterior interventricular artery;7135;ART;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left first lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right first lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left second lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right second lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left third lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right third lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left fourth lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right fourth lumbar vein;9589;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left fifth lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left first lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left fourth lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left second lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left third lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right fifth lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right first lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right fourth lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right second lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right third lumbar artery;9589;ART;N}
+microcirculations,INSERT,{Trunk of left vaginal artery;19975;ART;N}
+microcirculations,INSERT,{Trunk of right vaginal artery;19975;ART;N}
+microcirculations,INSERT,{Trunk of left vaginal vein;19975;VEN;N}
+microcirculations,INSERT,{Trunk of right vaginal vein;19975;VEN;N}
+microcirculations,INSERT,{Trunk of posterior ramus of left fifth lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of left first lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of left fourth lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of left second lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of left third lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of right fifth lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of right first lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of right fourth lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of right second lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of posterior ramus of right third lumbar artery;85216;ART;N}
+microcirculations,INSERT,{Trunk of left obturator vein;19086;VEN;N}
+microcirculations,INSERT,{Trunk of pubic branch of left obturator artery;19086;ART;N}
+microcirculations,INSERT,{Trunk of right obturator vein;19086;VEN;N}
+microcirculations,INSERT,{Trunk of pubic branch of right obturator artery;19086;ART;N}
+microcirculations,INSERT,{Trunk of anterior septal branch of anterior interventricular artery;7134;ART;N}
+microcirculations,INSERT,{Trunk of smallest cardiac vein;9462;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal artery;46366;ART;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal artery;46366;ART;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal vein;46366;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal vein;46366;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal artery;71157;ART;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal artery;71157;ART;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal vein;71157;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal vein;71157;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal artery;46377;ART;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal artery;46377;ART;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal vein;46377;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal vein;46377;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left ninth posterior intercostal artery;10014;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right ninth posterior intercostal artery;10014;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;31240;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;27364;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;31242;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;27363;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;27363;VEN;N}
+microcirculations,INSERT,{Trunk of pericardial vein;9869;VEN;N}
+microcirculations,INSERT,{Trunk of left transverse perineal artery;9579;ART;N}
+microcirculations,INSERT,{Trunk of left transverse perineal vein;9579;VEN;N}
+microcirculations,INSERT,{Trunk of right transverse perineal artery;9579;ART;N}
+microcirculations,INSERT,{Trunk of right transverse perineal vein;9579;VEN;N}
+microcirculations,INSERT,{Trunk of pericardial artery;72199;ART;N}
+microcirculations,INSERT,{Trunk of pericardial artery;86707;ART;N}
+microcirculations,INSERT,{Trunk of pericardial artery;86700;ART;N}
+microcirculations,INSERT,{Trunk of intermediate atrial branch of circumflex coronary artery;9542;ART;N}
+microcirculations,INSERT,{Trunk of left gastroepiploic vein;14584;VEN;N}
+microcirculations,INSERT,{Trunk of right gastroepiploic vein;14584;VEN;N}
+microcirculations,INSERT,{Trunk of left posterior azygos artery of vagina;19973;ART;N}
+microcirculations,INSERT,{Trunk of right posterior azygos artery of vagina;19973;ART;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the clitoris;20169;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the clitoris;20169;ART;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the penis;19639;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the penis;19639;ART;N}
+microcirculations,INSERT,{Trunk of left middle rectal artery;9600;ART;N}
+microcirculations,INSERT,{Trunk of right middle rectal artery;9600;ART;N}
+microcirculations,INSERT,{Trunk of left middle rectal vein;9600;VEN;N}
+microcirculations,INSERT,{Trunk of left vesical vein;9600;VEN;N}
+microcirculations,INSERT,{Trunk of right middle rectal vein;9600;VEN;N}
+microcirculations,INSERT,{Trunk of right vesical vein;9600;VEN;N}
+microcirculations,INSERT,{Trunk of anterior superior pancreaticoduodenal artery;71133;ART;N}
+microcirculations,INSERT,{Trunk of posterior superior pancreaticoduodenal artery;71133;ART;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22452;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of right obturator artery;22452;ART;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22456;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of right obturator artery;22456;ART;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22459;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of right obturator artery;22459;ART;N}
+microcirculations,INSERT,{Trunk of posterior branch of right obturator artery;22459;ART;N}
+microcirculations,INSERT,{Trunk of left inferior suprarenal artery branch of left renal artery;15629;ART;N}
+microcirculations,INSERT,{Trunk of right superior suprarenal artery branch of right inferior phrenic artery;15629;ART;N}
+microcirculations,INSERT,{Trunk of right marginal vein;7096;VEN;N}
+microcirculations,INSERT,{Trunk of artery of sinuatrial node branch of right coronary artery;7096;ART;N}
+microcirculations,INSERT,{Trunk of right vaginal artery;74317;ART;N}
+microcirculations,INSERT,{Trunk of right vaginal vein;74317;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of urethral bulb;74317;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of right penile bulb vein;74317;VEN;N}
+microcirculations,INSERT,{Trunk of right perineal artery;21921;ART;N}
+microcirculations,INSERT,{Trunk of right perineal vein;21921;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of urethral bulb;20017;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of right penile bulb vein;20017;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior gluteal artery;46443;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;46443;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right internal pudendal vein;46443;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of right internal pudendal artery;46443;ART;N}
+microcirculations,INSERT,{Trunk of right deep artery of the clitoris;20173;ART;N}
+microcirculations,INSERT,{Trunk of right deep artery of the penis;19619;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the penis;19619;ART;N}
+microcirculations,INSERT,{Trunk of right testicular artery;18256;ART;N}
+microcirculations,INSERT,{Trunk of right testicular vein;18256;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of ductus deferens;18256;ART;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;13336;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of right iliolumbar artery;13336;ART;N}
+microcirculations,INSERT,{Trunk of right obturator vein;24474;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of right obturator artery;24474;ART;N}
+microcirculations,INSERT,{Trunk of right lateral sacral vein;6436;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;6436;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of right lateral sacral artery;6436;ART;N}
+microcirculations,INSERT,{Trunk of right first posterior intercostal vein;71136;VEN;N}
+microcirculations,INSERT,{Trunk of right first posterior intercostal vein;9789;VEN;N}
+microcirculations,INSERT,{Trunk of right lateral sacral vein;6428;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;6428;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of right lateral sacral artery;6428;ART;N}
+microcirculations,INSERT,{Trunk of right lateral sacral vein;6434;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;6434;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of right lateral sacral artery;6434;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;22336;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22336;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;22334;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22334;VEN;N}
+microcirculations,INSERT,{Trunk of inferior division of deep part of right superior gluteal artery;22328;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;22328;ART;N}
+microcirculations,INSERT,{Trunk of coccygeal branch of right inferior gluteal artery;22328;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;22328;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22328;VEN;N}
+microcirculations,INSERT,{Trunk of superficial part of right superior gluteal artery;22328;ART;N}
+microcirculations,INSERT,{Trunk of inferior division of deep part of right superior gluteal artery;22330;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;22330;VEN;N}
+microcirculations,INSERT,{Trunk of superior division of deep part of right superior gluteal artery;22332;ART;N}
+microcirculations,INSERT,{Trunk of inferior division of deep part of right superior gluteal artery;22332;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;22332;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;43883;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of right obturator artery;43883;ART;N}
+microcirculations,INSERT,{Trunk of right superior phrenic artery;57858;ART;N}
+microcirculations,INSERT,{Trunk of right inferior phrenic vein;57858;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;22322;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of right iliolumbar artery;22322;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;22322;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22322;VEN;N}
+microcirculations,INSERT,{Trunk of iliac branch of right obturator artery;22322;ART;N}
+microcirculations,INSERT,{Trunk of iliacus part of right superior gluteal artery;22322;ART;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;16590;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of right iliolumbar artery;16590;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;16590;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;16590;VEN;N}
+microcirculations,INSERT,{Trunk of iliac branch of right obturator artery;16590;ART;N}
+microcirculations,INSERT,{Trunk of right nutrient artery to ilium;16590;ART;N}
+microcirculations,INSERT,{Trunk of right subcostal artery;13892;ART;N}
+microcirculations,INSERT,{Trunk of internal oblique division of ascending part of right deep circumflex iliac artery;13892;ART;N}
+microcirculations,INSERT,{Trunk of right subcostal vein;13892;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;13892;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right deep circumflex iliac vein;13892;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of right iliolumbar artery;13892;ART;N}
+microcirculations,INSERT,{Trunk of right perineal artery;21923;ART;N}
+microcirculations,INSERT,{Trunk of right perineal vein;21923;VEN;N}
+microcirculations,INSERT,{Trunk of posterior segmental artery of the right renal artery;7204;ART;N}
+microcirculations,INSERT,{Trunk of anterior tributary of right renal vein;7204;VEN;N}
+microcirculations,INSERT,{Trunk of posterior tributary of right renal vein;7204;VEN;N}
+microcirculations,INSERT,{Trunk of right perineal artery;20369;ART;N}
+microcirculations,INSERT,{Trunk of right perineal vein;20369;VEN;N}
+microcirculations,INSERT,{Trunk of right perineal artery;20380;ART;N}
+microcirculations,INSERT,{Trunk of right perineal vein;20380;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior gluteal artery;82938;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;82938;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right internal pudendal vein;82938;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of right internal pudendal artery;82938;ART;N}
+microcirculations,INSERT,{Trunk of right hepatic artery;13362;ART;N}
+microcirculations,INSERT,{Trunk of anterior superior segmental tributary of right hepatic vein;13362;VEN;N}
+microcirculations,INSERT,{Trunk of anterior inferior segmental tributary of right hepatic vein;13362;VEN;N}
+microcirculations,INSERT,{Trunk of posterior superior segmental tributary of right hepatic vein;13362;VEN;N}
+microcirculations,INSERT,{Trunk of posterior inferior segmental tributary of right hepatic vein;13362;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22326;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of right obturator artery;22326;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;22324;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right internal pudendal vein;22324;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of right internal pudendal artery;22324;ART;N}
+microcirculations,INSERT,{Trunk of obturator internus part of right superior gluteal artery;22324;ART;N}
+microcirculations,INSERT,{Trunk of right uterine artery;7213;ART;N}
+microcirculations,INSERT,{Trunk of right uterine vein;7213;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22450;VEN;N}
+microcirculations,INSERT,{Trunk of anterior branch of right obturator artery;22450;ART;N}
+microcirculations,INSERT,{Trunk of right inferior gluteal artery;22340;ART;N}
+microcirculations,INSERT,{Venae comitantes of right superior gluteal vein;22340;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22340;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right internal pudendal vein;22340;VEN;N}
+microcirculations,INSERT,{Trunk of muscular branch of right internal pudendal artery;22340;ART;N}
+microcirculations,INSERT,{Trunk of right artery to piriformis;22340;ART;N}
+microcirculations,INSERT,{Trunk of mediastinal artery;5948;ART;N}
+microcirculations,INSERT,{Trunk of mediastinal vein;5948;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;22342;VEN;N}
+microcirculations,INSERT,{Trunk of lumbar part of right iliolumbar artery;22342;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;22338;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22338;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;22348;VEN;N}
+microcirculations,INSERT,{Trunk of lumbar part of right iliolumbar artery;22348;ART;N}
+microcirculations,INSERT,{Trunk of right superior epigastric artery;13377;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric artery;13377;ART;N}
+microcirculations,INSERT,{Trunk of muscular part of right inferior epigastric artery;13377;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;13377;VEN;N}
+microcirculations,INSERT,{Trunk of right superior epigastric vein;13377;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine artery;57789;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian artery;57789;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian vein;57789;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine vein;57789;VEN;N}
+microcirculations,INSERT,{Trunk of right accompanying artery of ischiadic nerve;22111;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22111;VEN;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal vein;9766;VEN;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal vein;71138;VEN;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal vein;9790;VEN;N}
+microcirculations,INSERT,{Trunk of right lateral sacral vein;6430;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;6430;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of right lateral sacral artery;6430;ART;N}
+microcirculations,INSERT,{Trunk of caudate lobe branch of right hepatic artery;14503;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;22448;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22448;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22448;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of right obturator artery;22448;ART;N}
+microcirculations,INSERT,{Trunk of muscular branch of right inferior gluteal artery;22358;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior gluteal vein;22358;VEN;N}
+microcirculations,INSERT,{Trunk of right obturator vein;22358;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of right obturator artery;22358;ART;N}
+microcirculations,INSERT,{Trunk of right transverse perineal artery;21919;ART;N}
+microcirculations,INSERT,{Trunk of right transverse perineal vein;21919;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of ductus deferens;7211;ART;N}
+microcirculations,INSERT,{Trunk of right lateral sacral vein;6432;VEN;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;6432;ART;N}
+microcirculations,INSERT,{Trunk of inferior part of right lateral sacral artery;6432;ART;N}
+microcirculations,INSERT,{Trunk of right subcostal artery;22344;ART;N}
+microcirculations,INSERT,{Trunk of transversus abdominis division of ascending part of right deep circumflex iliac artery;22344;ART;N}
+microcirculations,INSERT,{Trunk of right subcostal vein;22344;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right iliolumbar vein;22344;VEN;N}
+microcirculations,INSERT,{Venae comitantes of right deep circumflex iliac vein;22344;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of right iliolumbar artery;22344;ART;N}
+microcirculations,INSERT,{Trunk of right testicular vein;15571;VEN;N}
+microcirculations,INSERT,{Trunk of right ovarian vein;15571;VEN;N}
+microcirculations,INSERT,{Trunk of ascending ureteral branches of the right renal artery;15571;ART;N}
+microcirculations,INSERT,{Trunk of descending ureteral branches of the right renal artery;15571;ART;N}
+microcirculations,INSERT,{Trunk of ureteral tributary of right renal vein;15571;VEN;N}
+microcirculations,INSERT,{Trunk of middle cardiac vein;7098;VEN;N}
+microcirculations,INSERT,{Trunk of ventricular branch of anterior interventricular branch of left coronary artery;7098;ART;N}
+microcirculations,INSERT,{Trunk of ventricular branch of left posterior interventricular artery;7098;ART;N}
+microcirculations,INSERT,{Trunk of ventricular branch of right posterior interventricular artery;7098;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;19736;VEN;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;19735;VEN;N}
+microcirculations,INSERT,{Trunk of median sacral vein;16202;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left second lumbar vein;13073;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right second lumbar vein;13073;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of right third lumbar vein;13073;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left second lumbar artery;13073;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right second lumbar artery;13073;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right second posterior intercostal artery;9209;ART;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal vein;46364;VEN;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal artery;46364;ART;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal artery;46364;ART;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal vein;46364;VEN;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal vein;71151;VEN;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal artery;71151;ART;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal artery;71151;ART;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal vein;71151;VEN;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal vein;46375;VEN;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal artery;46375;ART;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal artery;46375;ART;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal vein;46375;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left seventh posterior intercostal artery;9968;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right seventh posterior intercostal artery;9968;ART;N}
+microcirculations,INSERT,{Trunk of artery of sinuatrial node branch of right coronary artery;9477;ART;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal vein;46363;VEN;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal artery;46363;ART;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal artery;46363;ART;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal vein;46363;VEN;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal vein;71148;VEN;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal artery;71148;ART;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal artery;71148;ART;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal vein;71148;VEN;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal vein;46374;VEN;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal artery;46374;ART;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal artery;46374;ART;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal vein;46374;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left sixth posterior intercostal artery;9945;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right sixth posterior intercostal artery;9945;ART;N}
+microcirculations,INSERT,{Trunk of cutaneous branch of left inferior gluteal artery;45287;ART;N}
+microcirculations,INSERT,{Trunk of left inferior rectal artery;45287;ART;N}
+microcirculations,INSERT,{Trunk of left inferior rectal vein;45287;VEN;N}
+microcirculations,INSERT,{Trunk of left perineal vein;22080;VEN;N}
+microcirculations,INSERT,{Trunk of posterior scrotal branches of left perineal artery;22080;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;20467;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian vein;20467;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left third lumbar vein;23009;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left fourth lumbar vein;23009;VEN;N}
+microcirculations,INSERT,{Trunk of cutaneous part of left inferior epigastric artery;23009;ART;N}
+microcirculations,INSERT,{Venae comitantes of left inferior epigastric vein;23009;VEN;N}
+microcirculations,INSERT,{Trunk of left subcostal vein;23007;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left first lumbar vein;23007;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left second lumbar vein;23007;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of left third lumbar vein;23007;VEN;N}
+microcirculations,INSERT,{Trunk of left dorsal artery of the penis;19638;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal artery of the penis;19638;ART;N}
+microcirculations,INSERT,{Trunk of cutaneous branch of left inferior gluteal artery;37799;ART;N}
+microcirculations,INSERT,{Trunk of cutaneous branch of right inferior gluteal artery;37798;ART;N}
+microcirculations,INSERT,{Trunk of cutaneous branch of right inferior gluteal artery;45286;ART;N}
+microcirculations,INSERT,{Trunk of right inferior rectal artery;45286;ART;N}
+microcirculations,INSERT,{Trunk of right inferior rectal vein;45286;VEN;N}
+microcirculations,INSERT,{Trunk of right perineal vein;22079;VEN;N}
+microcirculations,INSERT,{Trunk of posterior scrotal branches of right perineal artery;22079;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian artery;20466;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian vein;20466;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of right third lumbar vein;23008;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of right fourth lumbar vein;23008;VEN;N}
+microcirculations,INSERT,{Trunk of cutaneous part of right inferior epigastric artery;23008;ART;N}
+microcirculations,INSERT,{Venae comitantes of right inferior epigastric vein;23008;VEN;N}
+microcirculations,INSERT,{Trunk of right subcostal vein;23006;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of right first lumbar vein;23006;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of right second lumbar vein;23006;VEN;N}
+microcirculations,INSERT,{Trunk of dorsal tributary of right third lumbar vein;23006;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of right subcostal artery;23006;ART;N}
+microcirculations,INSERT,{Trunk of splenic artery;7196;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of left inferior phrenic artery;7196;ART;N}
+microcirculations,INSERT,{Trunk of splenic vein;7196;VEN;N}
+microcirculations,INSERT,{Trunk of superior segmental artery of the left renal artery;15607;ART;N}
+microcirculations,INSERT,{Trunk of anterosuperior segmental artery of the left renal artery;15607;ART;N}
+microcirculations,INSERT,{Trunk of superior segmental artery of the right renal artery;15606;ART;N}
+microcirculations,INSERT,{Trunk of anterosuperior segmental artery of the right renal artery;15606;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;16555;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic vein;16555;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left tenth posterior intercostal artery;71176;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right tenth posterior intercostal artery;71176;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left eleventh posterior intercostal artery;71177;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right eleventh posterior intercostal artery;71177;ART;N}
+microcirculations,INSERT,{Trunk of right subcostal vein;71178;VEN;N}
+microcirculations,INSERT,{Trunk of left subcostal vein;71178;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of left subcostal artery;71178;ART;N}
+microcirculations,INSERT,{Trunk of posterior branch of right subcostal artery;71178;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left third posterior intercostal artery;71169;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right third posterior intercostal artery;71169;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left fourth posterior intercostal artery;71170;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right fourth posterior intercostal artery;71170;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left fifth posterior intercostal artery;71171;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right fifth posterior intercostal artery;71171;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left sixth posterior intercostal artery;71172;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right sixth posterior intercostal artery;71172;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left seventh posterior intercostal artery;71173;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right seventh posterior intercostal artery;71173;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left eighth posterior intercostal artery;71174;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right eighth posterior intercostal artery;71174;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left ninth posterior intercostal artery;71175;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right ninth posterior intercostal artery;71175;ART;N}
+microcirculations,INSERT,{Trunk of pancreatic tributary of splenic artery;14519;ART;N}
+microcirculations,INSERT,{Trunk of pancreatic tributary of splenic vein;14519;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal artery;46367;ART;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal artery;46367;ART;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal vein;46367;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal vein;46367;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal artery;71160;ART;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal artery;71160;ART;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal vein;71160;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal vein;71160;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal artery;46378;ART;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal artery;46378;ART;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal vein;46378;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal vein;46378;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left tenth posterior intercostal artery;10037;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right tenth posterior intercostal artery;10037;ART;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal artery;46360;ART;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal artery;46360;ART;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal vein;46360;VEN;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal vein;46360;VEN;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal artery;71139;ART;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal artery;71139;ART;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal vein;71139;VEN;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal vein;71139;VEN;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal artery;46371;ART;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal artery;46371;ART;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal vein;46371;VEN;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal vein;46371;VEN;N}
+microcirculations,INSERT,{Trunk of spinal tributary of left third lumbar vein;13074;VEN;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of left third lumbar artery;13074;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of posterior ramus of right third lumbar artery;13074;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left third posterior intercostal artery;9209;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right third posterior intercostal artery;9209;ART;N}
+microcirculations,INSERT,{Trunk of right subcostal vein;10081;VEN;N}
+microcirculations,INSERT,{Trunk of left subcostal vein;10081;VEN;N}
+microcirculations,INSERT,{Trunk of posterior branch of left subcostal artery;10081;ART;N}
+microcirculations,INSERT,{Trunk of posterior branch of right subcostal artery;10081;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric artery;61584;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric vein;61584;VEN;N}
+microcirculations,INSERT,{Trunk of right superior epigastric vein;61584;VEN;N}
+microcirculations,INSERT,{Trunk of left gastric artery;14129;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of left inferior phrenic artery;14129;ART;N}
+microcirculations,INSERT,{Trunk of left gastric vein;14129;VEN;N}
+microcirculations,INSERT,{Trunk of appendicular artery;14621;ART;N}
+microcirculations,INSERT,{Trunk of superior branch of ileocolic artery;14623;ART;N}
+microcirculations,INSERT,{Trunk of colic branch of inferior branch of ileocolic artery;14623;ART;N}
+microcirculations,INSERT,{Trunk of cecal tributary of ileocolic vein;14623;VEN;N}
+microcirculations,INSERT,{Trunk of ascending branch of right colic artery;14623;ART;N}
+microcirculations,INSERT,{Trunk of descending branch of right colic artery;14623;ART;N}
+microcirculations,INSERT,{Trunk of right colic vein;14623;VEN;N}
+microcirculations,INSERT,{Trunk of left uterine artery;17755;ART;N}
+microcirculations,INSERT,{Trunk of right uterine artery;17755;ART;N}
+microcirculations,INSERT,{Trunk of left uterine vein;17755;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine vein;17755;VEN;N}
+microcirculations,INSERT,{Trunk of anterior cecal artery of inferior branch of ileocolic artery;14620;ART;N}
+microcirculations,INSERT,{Trunk of posterior cecal artery of inferior branch of ileocolic artery;14620;ART;N}
+microcirculations,INSERT,{Trunk of left uterine artery;17757;ART;N}
+microcirculations,INSERT,{Trunk of right uterine artery;17757;ART;N}
+microcirculations,INSERT,{Trunk of left uterine vein;17757;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine vein;17757;VEN;N}
+microcirculations,INSERT,{Trunk of cystic artery;14682;ART;N}
+microcirculations,INSERT,{Trunk of cystic vein;14682;VEN;N}
+microcirculations,INSERT,{Trunk of sigmoid artery;14625;ART;N}
+microcirculations,INSERT,{Trunk of left colic vein;14625;VEN;N}
+microcirculations,INSERT,{Trunk of sigmoid vein;14625;VEN;N}
+microcirculations,INSERT,{Trunk of ascending branch of left colic artery;14625;ART;N}
+microcirculations,INSERT,{Trunk of descending branch of left colic artery;14625;ART;N}
+microcirculations,INSERT,{Trunk of left middle vesical artery;17839;ART;N}
+microcirculations,INSERT,{Trunk of left inferior vesical artery;17839;ART;N}
+microcirculations,INSERT,{Trunk of right middle vesical artery;17839;ART;N}
+microcirculations,INSERT,{Trunk of cystic artery;14657;ART;N}
+microcirculations,INSERT,{Trunk of cystic vein;14657;VEN;N}
+microcirculations,INSERT,{Trunk of ileal artery;14618;ART;N}
+microcirculations,INSERT,{Trunk of ileal vein;14618;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior rectal artery;29383;ART;N}
+microcirculations,INSERT,{Trunk of left inferior rectal vein;29383;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior rectal artery;29383;ART;N}
+microcirculations,INSERT,{Trunk of right inferior rectal vein;29383;VEN;N}
+microcirculations,INSERT,{Trunk of lateral branch of right inferior phrenic artery;14161;ART;N}
+microcirculations,INSERT,{Trunk of small cardiac vein;9235;VEN;N}
+microcirculations,INSERT,{Trunk of intermediate atrial branch of right coronary artery;9235;ART;N}
+microcirculations,INSERT,{Trunk of jejunal artery;14617;ART;N}
+microcirculations,INSERT,{Trunk of jejunal vein;14617;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of ductus deferens;19257;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62528;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62528;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62531;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62531;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62531;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;13130;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;13130;VEN;N}
+microcirculations,INSERT,{Trunk of left middle vesical artery;19392;ART;N}
+microcirculations,INSERT,{Trunk of left inferior vesical artery;19392;ART;N}
+microcirculations,INSERT,{Trunk of left middle rectal artery;19392;ART;N}
+microcirculations,INSERT,{Trunk of left middle rectal vein;19392;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62526;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62526;VEN;N}
+microcirculations,INSERT,{Trunk of left uterine artery;15890;ART;N}
+microcirculations,INSERT,{Trunk of left testicular artery;15890;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;15890;ART;N}
+microcirculations,INSERT,{Trunk of left vesical vein;15890;VEN;N}
+microcirculations,INSERT,{Trunk of left uterine vein;15890;VEN;N}
+microcirculations,INSERT,{Trunk of ascending ureteral branches of the left renal artery;15890;ART;N}
+microcirculations,INSERT,{Trunk of descending ureteral branches of the left renal artery;15890;ART;N}
+microcirculations,INSERT,{Trunk of left testicular vein;15890;VEN;N}
+microcirculations,INSERT,{Trunk of left ovarian vein;15890;VEN;N}
+microcirculations,INSERT,{Trunk of ureteral tributary of left renal vein;15890;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of ductus deferens;15890;ART;N}
+microcirculations,INSERT,{Trunk of left superior vesical artery;15890;ART;N}
+microcirculations,INSERT,{Trunk of left uterine artery;18500;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;18500;ART;N}
+microcirculations,INSERT,{Trunk of left uterine vein;18500;VEN;N}
+microcirculations,INSERT,{Trunk of left ovarian vein;18500;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62523;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62523;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62523;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62523;VEN;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62523;VEN;N}
+microcirculations,INSERT,{Trunk of left vaginal artery;14626;ART;N}
+microcirculations,INSERT,{Trunk of right vaginal artery;14626;ART;N}
+microcirculations,INSERT,{Trunk of superior rectal artery;14626;ART;N}
+microcirculations,INSERT,{Trunk of superior rectal vein;14626;VEN;N}
+microcirculations,INSERT,{Trunk of left middle rectal artery;14626;ART;N}
+microcirculations,INSERT,{Trunk of right middle rectal artery;14626;ART;N}
+microcirculations,INSERT,{Trunk of left middle rectal vein;14626;VEN;N}
+microcirculations,INSERT,{Trunk of left vaginal vein;14626;VEN;N}
+microcirculations,INSERT,{Trunk of right middle rectal vein;14626;VEN;N}
+microcirculations,INSERT,{Trunk of right vaginal vein;14626;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of ductus deferens;19256;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62527;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62527;VEN;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62530;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62530;VEN;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;13129;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;13129;VEN;N}
+microcirculations,INSERT,{Trunk of right middle vesical artery;19391;ART;N}
+microcirculations,INSERT,{Trunk of right inferior vesical artery;19391;ART;N}
+microcirculations,INSERT,{Trunk of right middle rectal artery;19391;ART;N}
+microcirculations,INSERT,{Trunk of right middle rectal vein;19391;VEN;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62525;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62525;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine artery;15889;ART;N}
+microcirculations,INSERT,{Trunk of right vesical vein;15889;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine vein;15889;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of ductus deferens;15889;ART;N}
+microcirculations,INSERT,{Trunk of right superior vesical artery;15889;ART;N}
+microcirculations,INSERT,{Trunk of right uterine artery;18499;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian artery;18499;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian vein;18499;VEN;N}
+microcirculations,INSERT,{Trunk of right uterine vein;18499;VEN;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62557;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62557;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62557;VEN;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62557;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62554;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62554;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62554;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62554;VEN;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62554;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62553;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62553;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62553;VEN;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62553;VEN;N}
+microcirculations,INSERT,{Trunk of sigmoid artery;15650;ART;N}
+microcirculations,INSERT,{Trunk of sigmoid vein;15650;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;62587;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;62587;ART;N}
+microcirculations,INSERT,{Trunk of left bronchial vein;62587;VEN;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;62586;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial vein;62586;VEN;N}
+microcirculations,INSERT,{Trunk of superior rectal artery;29381;ART;N}
+microcirculations,INSERT,{Trunk of superior rectal vein;29381;VEN;N}
+microcirculations,INSERT,{Trunk of left first bronchial artery;14128;ART;N}
+microcirculations,INSERT,{Trunk of left second bronchial artery;14128;ART;N}
+microcirculations,INSERT,{Trunk of right bronchial artery;14128;ART;N}
+microcirculations,INSERT,{Trunk of esophageal artery;14128;ART;N}
+microcirculations,INSERT,{Trunk of esophageal vein;14128;VEN;N}
+microcirculations,INSERT,{Trunk of left colic vein;14624;VEN;N}
+microcirculations,INSERT,{Trunk of ascending branch of left colic artery;14624;ART;N}
+microcirculations,INSERT,{Trunk of right middle colic artery;14624;ART;N}
+microcirculations,INSERT,{Trunk of left middle colic artery;14624;ART;N}
+microcirculations,INSERT,{Trunk of middle colic vein;14624;VEN;N}
+microcirculations,INSERT,{Trunk of left obturator vein;15902;VEN;N}
+microcirculations,INSERT,{Trunk of left vesical vein;15902;VEN;N}
+microcirculations,INSERT,{Trunk of vesical branch of left obturator artery;15902;ART;N}
+microcirculations,INSERT,{Trunk of left superior vesical artery;15902;ART;N}
+microcirculations,INSERT,{Trunk of right obturator vein;15902;VEN;N}
+microcirculations,INSERT,{Trunk of right vesical vein;15902;VEN;N}
+microcirculations,INSERT,{Trunk of vesical branch of right obturator artery;15902;ART;N}
+microcirculations,INSERT,{Trunk of right superior vesical artery;15902;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;17560;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian artery;17560;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian vein;17560;VEN;N}
+microcirculations,INSERT,{Trunk of left ovarian vein;17560;VEN;N}
+microcirculations,INSERT,{Trunk of left artery of urethral bulb;19971;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of left penile bulb vein;19971;VEN;N}
+microcirculations,INSERT,{Trunk of right artery of urethral bulb;19971;ART;N}
+microcirculations,INSERT,{Trunk of bulbo-urethral gland tributary of right penile bulb vein;19971;VEN;N}
+microcirculations,INSERT,{Trunk of left superior thyroid artery;55567;ART;N}
+microcirculations,INSERT,{Trunk of right superior thyroid artery;55567;ART;N}
+microcirculations,INSERT,{Trunk of left middle suprarenal artery;9604;ART;N}
+microcirculations,INSERT,{Trunk of right middle suprarenal artery;9604;ART;N}
+microcirculations,INSERT,{Trunk of left superior suprarenal artery branch of left inferior phrenic artery;9604;ART;N}
+microcirculations,INSERT,{Trunk of right superior suprarenal artery branch of right inferior phrenic artery;9604;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12519;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12519;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12520;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12520;ART;N}
+microcirculations,INSERT,{Trunk of hypogastric artery;20229;ART;N}
+microcirculations,INSERT,{Trunk of right hepatic artery;14667;ART;N}
+microcirculations,INSERT,{Trunk of gastroduodenal artery;14667;ART;N}
+microcirculations,INSERT,{Trunk of cystic artery;14667;ART;N}
+microcirculations,INSERT,{Trunk of posterior superior pancreaticoduodenal artery;16018;ART;N}
+microcirculations,INSERT,{Trunk of pancreatic tributary of splenic artery;16018;ART;N}
+microcirculations,INSERT,{Trunk of left ascending cervical artery;12523;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12523;ART;N}
+microcirculations,INSERT,{Trunk of right ascending cervical artery;12523;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12523;ART;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal artery;46360;ART;N}
+microcirculations,INSERT,{Trunk of right first posterior intercostal artery;46360;ART;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal artery;71139;ART;N}
+microcirculations,INSERT,{Trunk of right first posterior intercostal artery;71139;ART;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal artery;46371;ART;N}
+microcirculations,INSERT,{Trunk of right first posterior intercostal artery;46371;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left first posterior intercostal artery;9209;ART;N}
+microcirculations,INSERT,{Trunk of left ascending cervical artery;12522;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12522;ART;N}
+microcirculations,INSERT,{Trunk of right ascending cervical artery;12522;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12522;ART;N}
+microcirculations,INSERT,{Trunk of left suprascapular artery;13323;ART;N}
+microcirculations,INSERT,{Trunk of left thoracoacromial artery;13323;ART;N}
+microcirculations,INSERT,{Trunk of left internal thoracic artery;13323;ART;N}
+microcirculations,INSERT,{Trunk of left inferior thyroid artery;55563;ART;N}
+microcirculations,INSERT,{Trunk of left transverse scapular artery;13396;ART;N}
+microcirculations,INSERT,{Trunk of left subscapular artery;13396;ART;N}
+microcirculations,INSERT,{Trunk of left acromial branch of thoracoacromial artery;13396;ART;N}
+microcirculations,INSERT,{Trunk of left dorsal scapular artery;13396;ART;N}
+microcirculations,INSERT,{Trunk of left superior thyroid artery;55561;ART;N}
+microcirculations,INSERT,{Trunk of left inferior labial artery;59818;ART;N}
+microcirculations,INSERT,{Trunk of left inferior labial vein;59818;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior labial artery;59818;ART;N}
+microcirculations,INSERT,{Trunk of right inferior labial vein;59818;VEN;N}
+microcirculations,INSERT,{Trunk of left maxillary artery;269584;ART;N}
+microcirculations,INSERT,{Trunk of left inferior alveolar artery;269584;ART;N}
+microcirculations,INSERT,{Trunk of right maxillary artery;269584;ART;N}
+microcirculations,INSERT,{Trunk of right inferior alveolar artery;269584;ART;N}
+microcirculations,INSERT,{Trunk of left posterior superior alveolar artery;269584;ART;N}
+microcirculations,INSERT,{Trunk of right posterior superior alveolar artery;269582;ART;N}
+microcirculations,INSERT,{Trunk of left inferior laryngeal artery;59662;ART;N}
+microcirculations,INSERT,{Trunk of left inferior laryngeal vein;59662;VEN;N}
+microcirculations,INSERT,{Trunk of left superior laryngeal artery;59662;ART;N}
+microcirculations,INSERT,{Trunk of left superior laryngeal vein;59662;VEN;N}
+microcirculations,INSERT,{Trunk of right inferior laryngeal artery;59662;ART;N}
+microcirculations,INSERT,{Trunk of right inferior laryngeal vein;59662;VEN;N}
+microcirculations,INSERT,{Trunk of right superior laryngeal artery;59662;ART;N}
+microcirculations,INSERT,{Trunk of right superior laryngeal vein;59662;VEN;N}
+microcirculations,INSERT,{Trunk of left inferior thyroid artery;54880;ART;N}
+microcirculations,INSERT,{Trunk of right inferior thyroid artery;54879;ART;N}
+microcirculations,INSERT,{Trunk of left ascending pharyngeal artery;54879;ART;N}
+microcirculations,INSERT,{Trunk of left superior thyroid artery;54879;ART;N}
+microcirculations,INSERT,{Trunk of right ascending pharyngeal artery;54879;ART;N}
+microcirculations,INSERT,{Trunk of right superior thyroid artery;54879;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;7209;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian artery;7209;ART;N}
+microcirculations,INSERT,{Trunk of left first lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right first lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left second lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right second lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left third lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right third lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left fourth lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right fourth lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left fifth lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right fifth lumbar artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left inferior epigastric artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left superior epigastric artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of left musculophrenic artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right inferior epigastric artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of right superior epigastric artery;21451;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left eighth posterior intercostal artery;9751;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left eleventh posterior intercostal artery;9754;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left fifth posterior intercostal artery;9748;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left fourth posterior intercostal artery;9747;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left ninth posterior intercostal artery;9752;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left second posterior intercostal artery;9745;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left seventh posterior intercostal artery;9750;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left sixth posterior intercostal artery;9749;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left tenth posterior intercostal artery;9753;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of left third posterior intercostal artery;9746;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right eighth posterior intercostal artery;9740;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right eleventh posterior intercostal artery;9743;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right fifth posterior intercostal artery;9737;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right first posterior intercostal artery;9733;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right fourth posterior intercostal artery;9736;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right ninth posterior intercostal artery;9741;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right second posterior intercostal artery;9734;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right seventh posterior intercostal artery;9739;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right sixth posterior intercostal artery;9738;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right tenth posterior intercostal artery;9742;ART;N}
+microcirculations,INSERT,{Trunk of pleural branch of right third posterior intercostal artery;9735;ART;N}
+microcirculations,INSERT,{Trunk of right suprascapular artery;13322;ART;N}
+microcirculations,INSERT,{Trunk of right thoracoacromial artery;13322;ART;N}
+microcirculations,INSERT,{Trunk of right internal thoracic artery;13322;ART;N}
+microcirculations,INSERT,{Trunk of right inferior thyroid artery;55562;ART;N}
+microcirculations,INSERT,{Trunk of right transverse scapular artery;13395;ART;N}
+microcirculations,INSERT,{Trunk of right subscapular artery;13395;ART;N}
+microcirculations,INSERT,{Trunk of acromial branch of right thoracoacromial artery;13395;ART;N}
+microcirculations,INSERT,{Trunk of right dorsal scapular artery;13395;ART;N}
+microcirculations,INSERT,{Trunk of right superior thyroid artery;55560;ART;N}
+microcirculations,INSERT,{Trunk of median sacral artery;16202;ART;N}
+microcirculations,INSERT,{Trunk of superior part of left lateral sacral artery;16202;ART;N}
+microcirculations,INSERT,{Trunk of inferior branch of left lateral sacral artery;16202;ART;N}
+microcirculations,INSERT,{Trunk of superior part of right lateral sacral artery;16202;ART;N}
+microcirculations,INSERT,{Trunk of inferior branch of right lateral sacral artery;16202;ART;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal artery;46360;ART;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal artery;46360;ART;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal artery;71139;ART;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal artery;71139;ART;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal artery;46371;ART;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal artery;46371;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left second posterior intercostal artery;9209;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12525;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12525;ART;N}
+microcirculations,INSERT,{Trunk of left ascending cervical artery;12524;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12524;ART;N}
+microcirculations,INSERT,{Trunk of right ascending cervical artery;12524;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12524;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of left first posterior intercostal artery;62421;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of dorsal branch of right first posterior intercostal artery;62421;ART;N}
+microcirculations,INSERT,{Trunk of left testicular artery;7210;ART;N}
+microcirculations,INSERT,{Trunk of right testicular artery;7210;ART;N}
+microcirculations,INSERT,{Trunk of left ascending cervical artery;12521;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of left vertebral artery;12521;ART;N}
+microcirculations,INSERT,{Trunk of right ascending cervical artery;12521;ART;N}
+microcirculations,INSERT,{Trunk of spinal branch of right vertebral artery;12521;ART;N}
+microcirculations,INSERT,{Trunk of right inferior thyroid artery;7394;ART;N}
+microcirculations,INSERT,{Trunk of left inferior thyroid artery;7394;ART;N}
+microcirculations,INSERT,{Trunk of left superior labial artery;59817;ART;N}
+microcirculations,INSERT,{Trunk of left superior labial vein;59817;VEN;N}
+microcirculations,INSERT,{Trunk of right superior labial artery;59817;ART;N}
+microcirculations,INSERT,{Trunk of right superior labial vein;59817;VEN;N}
+microcirculations,INSERT,{Trunk of left urethral artery;19667;ART;N}
+microcirculations,INSERT,{Trunk of right urethral artery;19667;ART;N}
+microcirculations,INSERT,{Trunk of left ovarian artery;18245;ART;N}
+microcirculations,INSERT,{Trunk of right ovarian artery;18245;ART;N}
+microcirculations,INSERT,{Trunk of apical part of left apical segmental artery;69111;ART;N}
+microcirculations,INSERT,{Trunk of anterior part of left apical segmental artery;69109;ART;N}
+microcirculations,INSERT,{Trunk of apical part of left posterior segmental artery;69114;ART;N}
+microcirculations,INSERT,{Trunk of posterior part of left posterior segmental artery;69117;ART;N}
+microcirculations,INSERT,{Trunk of posterior branch of left anterior segmental artery;7373;ART;N}
+microcirculations,INSERT,{Trunk of superior division of posterior branch of left anterior segmental artery;7373;ART;N}
+microcirculations,INSERT,{Trunk of inferior division of posterior branch of left anterior segmental artery;7373;ART;N}
+microcirculations,INSERT,{Trunk of anterior branch of left anterior segmental artery;7373;ART;N}
+microcirculations,INSERT,{Trunk of left subsuperior segmental artery;68228;ART;N}
+microcirculations,INSERT,{Trunk of left medial basal segmental artery;7505;ART;N}
+microcirculations,INSERT,{Trunk of latero-anterior branch of left medial basal segmental artery;68572;ART;N}
+microcirculations,INSERT,{Trunk of medio-anterior branch of left medial basal segmental artery;68575;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of left anterior basal segmental artery;69159;ART;N}
+microcirculations,INSERT,{Trunk of basal branch of left anterior basal segmental artery;69162;ART;N}
+microcirculations,INSERT,{Trunk of accessory subsuperior branch of left lateral basal segmental artery;69164;ART;N}
+microcirculations,INSERT,{Trunk of basal branch of left lateral basal segmental artery;69167;ART;N}
+microcirculations,INSERT,{Trunk of accessory subsuperior branch of left posterior basal segmental artery;69170;ART;N}
+microcirculations,INSERT,{Trunk of laterobasal branch of left posterior basal segmental artery;69173;ART;N}
+microcirculations,INSERT,{Trunk of mediobasal branch of left posterior basal segmental artery;69176;ART;N}
+microcirculations,INSERT,{Trunk of medial branch of left superior segmental artery;68557;ART;N}
+microcirculations,INSERT,{Trunk of superior branch of left superior segmental artery;68567;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of left superior segmental artery;68570;ART;N}
+microcirculations,INSERT,{Trunk of superior lingular artery;7374;ART;N}
+microcirculations,INSERT,{Trunk of inferior lingular artery;7375;ART;N}
+microcirculations,INSERT,{Trunk of apical part of right apical segmental artery;69110;ART;N}
+microcirculations,INSERT,{Trunk of anterior part of right apical segmental artery;69108;ART;N}
+microcirculations,INSERT,{Trunk of apical part of right posterior segmental artery;69113;ART;N}
+microcirculations,INSERT,{Trunk of posterior part of right posterior segmental artery;69116;ART;N}
+microcirculations,INSERT,{Trunk of superior division of posterior branch of right anterior segmental artery;69125;ART;N}
+microcirculations,INSERT,{Trunk of inferior division of posterior branch of right anterior segmental artery;69126;ART;N}
+microcirculations,INSERT,{Trunk of anterior branch of right anterior segmental artery;69122;ART;N}
+microcirculations,INSERT,{Trunk of posterior branch of lateral segmental artery;69127;ART;N}
+microcirculations,INSERT,{Trunk of anterior branch of lateral segmental artery;69128;ART;N}
+microcirculations,INSERT,{Trunk of superior branch of medial segmental artery;69129;ART;N}
+microcirculations,INSERT,{Trunk of inferior branch of medial segmental artery;69130;ART;N}
+microcirculations,INSERT,{Trunk of right subsuperior segmental artery;68216;ART;N}
+microcirculations,INSERT,{Trunk of anterior branch of right medial basal segmental artery;68571;ART;N}
+microcirculations,INSERT,{Trunk of medial branch of right medial basal segmental artery;68573;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of right anterior basal segmental artery;68577;ART;N}
+microcirculations,INSERT,{Trunk of basal branch of right anterior basal segmental artery;68580;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of right lateral basal segmental artery;68582;ART;N}
+microcirculations,INSERT,{Trunk of basal branch of right lateral basal segmental artery;68585;ART;N}
+microcirculations,INSERT,{Trunk of accessory subsuperior branch of right posterior basal segmental artery;68588;ART;N}
+microcirculations,INSERT,{Trunk of laterobasal branch of right posterior basal segmental artery;68591;ART;N}
+microcirculations,INSERT,{Trunk of mediobasal branch of right posterior basal segmental artery;68594;ART;N}
+microcirculations,INSERT,{Trunk of medial branch of right superior segmental artery;68556;ART;N}
+microcirculations,INSERT,{Trunk of superior branch of right superior segmental artery;68566;ART;N}
+microcirculations,INSERT,{Trunk of lateral branch of right superior segmental artery;68569;ART;N}
+microcirculations,INSERT,{Trunk of intrasegmental tributary of left apical segmental vein;69109;VEN;N}
+microcirculations,INSERT,{Trunk of apical part of left apical segmental vein;69111;VEN;N}
+microcirculations,INSERT,{Trunk of intrasegmental tributary of left anterior segmental vein;7373;VEN;N}
+microcirculations,INSERT,{Trunk of inferior part of anterior segmental vein;7373;VEN;N}
+microcirculations,INSERT,{Trunk of intrasegmental tributary of superior lingular vein;7374;VEN;N}
+microcirculations,INSERT,{Trunk of subsegmental part of superior lingular vein;7374;VEN;N}
+microcirculations,INSERT,{Trunk of intrasegmental tributary of inferior lingular vein;7375;VEN;N}
+microcirculations,INSERT,{Trunk of right femoral nutrient artery;51627;ART;N}
+microcirculations,INSERT,{Trunk of left femoral nutrient artery;51628;ART;N}
+microcirculations,INSERT,{Trunk of right lateral circumflex femoral artery;42386;ART;N}
+microcirculations,INSERT,{Trunk of left lateral circumflex femoral artery;42387;ART;N}
+microcirculations,INSERT,{Trunk of right lateral circumflex femoral vein;42386;VEN;N}
+microcirculations,INSERT,{Trunk of left lateral circumflex femoral vein;42387;VEN;N}
+microcirculations,INSERT,{Trunk of right deep femoral vein;51627;VEN;N}
+microcirculations,INSERT,{Trunk of left deep femoral vein;51628;VEN;N}
+microcirculations,INSERT,{Trunk of medullary branch of left first posterior intercostal artery;235497;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left second posterior intercostal artery;235501;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left third posterior intercostal artery;235505;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left fourth posterior intercostal artery;235509;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left fifth posterior intercostal artery;235513;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left sixth posterior intercostal artery;235517;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left seventh posterior intercostal artery;235521;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left eighth posterior intercostal artery;235525;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left ninth posterior intercostal artery;235529;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left tenth posterior intercostal artery;235533;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left eleventh posterior intercostal artery;235537;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of left subcostal artery;235541;ART;N}
+microcirculations,INSERT,{Trunk of left first posterior intercostal vein;235497;VEN;N}
+microcirculations,INSERT,{Trunk of left second posterior intercostal vein;235501;VEN;N}
+microcirculations,INSERT,{Trunk of left third posterior intercostal vein;235505;VEN;N}
+microcirculations,INSERT,{Trunk of left fourth posterior intercostal vein;235509;VEN;N}
+microcirculations,INSERT,{Trunk of left fifth posterior intercostal vein;235513;VEN;N}
+microcirculations,INSERT,{Trunk of left sixth posterior intercostal vein;235517;VEN;N}
+microcirculations,INSERT,{Trunk of left seventh posterior intercostal vein;235521;VEN;N}
+microcirculations,INSERT,{Trunk of left eighth posterior intercostal vein;235525;VEN;N}
+microcirculations,INSERT,{Trunk of left ninth posterior intercostal vein;235529;VEN;N}
+microcirculations,INSERT,{Trunk of left tenth posterior intercostal vein;235533;VEN;N}
+microcirculations,INSERT,{Trunk of left eleventh posterior intercostal vein;235537;VEN;N}
+microcirculations,INSERT,{Trunk of left subcostal vein;235541;VEN;N}
+microcirculations,INSERT,{Trunk of medullary branch of right first posterior intercostal artery;235495;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right second posterior intercostal artery;235499;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right third posterior intercostal artery;235503;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right fourth posterior intercostal artery;235507;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right fifth posterior intercostal artery;235511;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right sixth posterior intercostal artery;235515;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right seventh posterior intercostal artery;235519;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right eighth posterior intercostal artery;235523;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right ninth posterior intercostal artery;235527;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right tenth posterior intercostal artery;235531;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right eleventh posterior intercostal artery;235535;ART;N}
+microcirculations,INSERT,{Trunk of medullary branch of right subcostal artery;235539;ART;N}
+microcirculations,INSERT,{Trunk of right first posterior intercostal vein;235495;VEN;N}
+microcirculations,INSERT,{Trunk of right second posterior intercostal vein;235499;VEN;N}
+microcirculations,INSERT,{Trunk of right third posterior intercostal vein;235503;VEN;N}
+microcirculations,INSERT,{Trunk of right fourth posterior intercostal vein;235507;VEN;N}
+microcirculations,INSERT,{Trunk of right fifth posterior intercostal vein;235511;VEN;N}
+microcirculations,INSERT,{Trunk of right sixth posterior intercostal vein;235515;VEN;N}
+microcirculations,INSERT,{Trunk of right seventh posterior intercostal vein;235519;VEN;N}
+microcirculations,INSERT,{Trunk of right eighth posterior intercostal vein;235523;VEN;N}
+microcirculations,INSERT,{Trunk of right ninth posterior intercostal vein;235527;VEN;N}
+microcirculations,INSERT,{Trunk of right tenth posterior intercostal vein;235531;VEN;N}
+microcirculations,INSERT,{Trunk of right eleventh posterior intercostal vein;235535;VEN;N}
+microcirculations,INSERT,{Trunk of right subcostal vein;235539;VEN;N}
+microcirculations,INSERT,{Trunk of sternal branch of right internal thoracic artery;7485;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of left internal thoracic artery;7485;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of right internal thoracic artery;7486;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of left internal thoracic artery;7486;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of right internal thoracic artery;7487;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of left internal thoracic artery;7487;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of right internal thoracic artery;7488;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of left internal thoracic artery;7488;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of right internal thoracic artery;7489;ART;N}
+microcirculations,INSERT,{Trunk of sternal branch of left internal thoracic artery;7489;ART;N}
+microcirculations,INSERT,{Trunk of sternal tributary of right internal thoracic vein;7485;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of left internal thoracic vein;7485;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of right internal thoracic vein;7486;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of left internal thoracic vein;7486;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of right internal thoracic vein;7487;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of left internal thoracic vein;7487;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of right internal thoracic vein;7488;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of left internal thoracic vein;7488;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of right internal thoracic vein;7489;VEN;N}
+microcirculations,INSERT,{Trunk of sternal tributary of left internal thoracic vein;7489;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of right iliolumbar vein;16590;VEN;N}
+microcirculations,INSERT,{Trunk of iliac part of left iliolumbar vein;16591;VEN;N}
+microcirculations,INSERT,{Trunk of left thalamoperforating artery;Left red nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right thalamoperforating artery;Right red nucleus;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior choroidal artery to red nucleus;Left red nucleus;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior choroidal artery to red nucleus;Right red nucleus;ART;N}
+microcirculations,INSERT,{Trunk of left mammillary artery;Left medial mammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right mammillary artery;Right medial mammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior choroidal artery to genu of internal capsule;Genu of left internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior choroidal artery to genu of internal capsule;Genu of right internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of peduncular branch of left posterior cerebral artery;Midbrain tegmentum;ART;N}
+microcirculations,INSERT,{Trunk of peduncular branch of right posterior cerebral artery;Midbrain tegmentum;ART;N}
+microcirculations,INSERT,{Trunk of systemic artery;Intercerebral commissure;ART;N}
+microcirculations,INSERT,{Trunk of pulmonary artery;Intercerebral commissure;ART;N}
+microcirculations,INSERT,{Trunk of left posterior medial choroidal artery;Pineal body;ART;N}
+microcirculations,INSERT,{Trunk of right posterior medial choroidal artery;Pineal body;ART;N}
+microcirculations,INSERT,{Trunk of left mammillary artery;Left mammillary peduncle;ART;N}
+microcirculations,INSERT,{Trunk of right mammillary artery;Right mammillary peduncle;ART;N}
+microcirculations,INSERT,{Trunk of left mesencephalic artery;Midbrain;ART;N}
+microcirculations,INSERT,{Trunk of right mesencephalic artery;Midbrain;ART;N}
+microcirculations,INSERT,{Trunk of right anterior inferior cerebellar artery;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of left anterior inferior cerebellar artery;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior inferior cerebellar artery to pons;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior inferior cerebellar artery to pons;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of left superior cerebellar artery;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of left pontine artery;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of right superior cerebellar artery;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of right pontine artery;Metencephalon;ART;N}
+microcirculations,INSERT,{Trunk of proximal lateral striate branch of right middle cerebral artery;Right corona radiata;ART;N}
+microcirculations,INSERT,{Trunk of distal lateral striate branch of left middle cerebral artery;Left corona radiata;ART;N}
+microcirculations,INSERT,{Trunk of distal lateral striate branch of right middle cerebral artery;Right corona radiata;ART;N}
+microcirculations,INSERT,{Trunk of proximal lateral striate branch of left middle cerebral artery;Left corona radiata;ART;N}
+microcirculations,INSERT,{Trunk of left mammillary artery;Left lateral mammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right mammillary artery;Right lateral mammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right anterior inferior cerebellar artery;Cerebellum;ART;N}
+microcirculations,INSERT,{Trunk of left posterior inferior cerebellar artery;Cerebellum;ART;N}
+microcirculations,INSERT,{Trunk of right posterior inferior cerebellar artery;Cerebellum;ART;N}
+microcirculations,INSERT,{Trunk of left anterior inferior cerebellar artery;Cerebellum;ART;N}
+microcirculations,INSERT,{Trunk of left superior cerebellar artery;Cerebellum;ART;N}
+microcirculations,INSERT,{Trunk of right superior cerebellar artery;Cerebellum;ART;N}
+microcirculations,INSERT,{Trunk of proximal lateral striate branch of right middle cerebral artery;Anterior commissure;ART;N}
+microcirculations,INSERT,{Trunk of distal lateral striate branch of left middle cerebral artery;Anterior commissure;ART;N}
+microcirculations,INSERT,{Trunk of proximal lateral striate branch of left middle cerebral artery;Anterior commissure;ART;N}
+microcirculations,INSERT,{Trunk of distal lateral striate branch of right middle cerebral artery;Anterior commissure;ART;N}
+microcirculations,INSERT,{Trunk of right anterior vestibular artery;Right vestibular nuclear complex;ART;N}
+microcirculations,INSERT,{Trunk of left anterior vestibular artery;Left vestibular nuclear complex;ART;N}
+microcirculations,INSERT,{Trunk of left common cochlear artery;Left vestibular nuclear complex;ART;N}
+microcirculations,INSERT,{Trunk of right common cochlear artery;Right vestibular nuclear complex;ART;N}
+microcirculations,INSERT,{Trunk of left pre-optic artery;Left medial preoptic nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right pre-optic artery;Right medial preoptic nucleus;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior choroidal artery to retrolentiform limb of internal capsule;Retrolenticular part of left internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior choroidal artery to retrolentiform limb of internal capsule;Retrolenticular part of right internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of left thalamoperforating artery;Hypothalamus;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior choroidal artery to hypothalamus;Hypothalamus;ART;N}
+microcirculations,INSERT,{Trunk of hypothalamic branch of left posterior communicating artery;Hypothalamus;ART;N}
+microcirculations,INSERT,{Trunk of hypothalamic branch of right posterior communicating artery;Hypothalamus;ART;N}
+microcirculations,INSERT,{Trunk of right thalamoperforating artery;Hypothalamus;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior choroidal artery to hypothalamus;Hypothalamus;ART;N}
+microcirculations,INSERT,{Trunk of left mammillary artery;Left tuberomammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right mammillary artery;Right tuberomammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of left distal medial striate artery;Left internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of right distal medial striate artery;Right internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of proximal lateral striate branch of right middle cerebral artery;Right internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of distal lateral striate branch of left middle cerebral artery;Left internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of distal lateral striate branch of right middle cerebral artery;Right internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of proximal lateral striate branch of left middle cerebral artery;Left internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of left supra-optic artery;Subdivision of supraoptic nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right supra-optic artery;Right supraoptic nucleus;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior inferior cerebellar artery to medulla oblongata;Medulla oblongata;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior inferior cerebellar artery to medulla oblongata;Medulla oblongata;ART;N}
+microcirculations,INSERT,{Trunk of left splenial artery;Splenium of corpus callosum;ART;N}
+microcirculations,INSERT,{Trunk of right splenial artery;Splenium of corpus callosum;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior inferior cerebellar artery to pons;Pons;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior inferior cerebellar artery to pons;Pons;ART;N}
+microcirculations,INSERT,{Trunk of left pontine artery;Pons;ART;N}
+microcirculations,INSERT,{Trunk of right pontine artery;Pons;ART;N}
+microcirculations,INSERT,{Trunk of artery of left tuber cinereum;Tuber cinereum;ART;N}
+microcirculations,INSERT,{Trunk of artery of right tuber cinereum;Tuber cinereum;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior choroidal artery to tuber cinereum;Tuber cinereum;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior choroidal artery to tuber cinereum;Tuber cinereum;ART;N}
+microcirculations,INSERT,{Trunk of left mammillary artery;Left supramammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right mammillary artery;Right supramammillary nucleus;ART;N}
+microcirculations,INSERT,{Trunk of left pre-optic artery;Median preoptic nucleus;ART;N}
+microcirculations,INSERT,{Trunk of right pre-optic artery;Median preoptic nucleus;ART;N}
+microcirculations,INSERT,{Trunk of branch of right anterior choroidal artery to posterior limb of internal capsule;Posterior limb of right internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of branch of left anterior choroidal artery to posterior limb of internal capsule;Posterior limb of left internal capsule;ART;N}
+microcirculations,INSERT,{Trunk of left mammillary artery;Mammillary princeps fasciculus;ART;N}
+microcirculations,INSERT,{Trunk of right mammillary artery;Mammillary princeps fasciculus;ART;N}
+microcirculations,INSERT,{Trunk of left common cochlear artery;Left cochlear nuclear complex;ART;N}
+microcirculations,INSERT,{Trunk of right common cochlear artery;Right cochlear nuclear complex;ART;N}

@@ -1,0 +1,1137 @@
+[branch0]> Trunk_of aorta
+
+	[branch1]> Trunk_of left coronary artery
+		[branch2]> Trunk_of variant atrial branch of left coronary artery
+		[branch2]> Trunk_of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of conus branch of anterior interventricular branch of left coronary artery
+				[branch4]> Trunk_of circle of Vieussens
+			[branch3]> Trunk_of diagonal branch of anterior descending branch of left coronary artery
+			[branch3]> Trunk_of anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of anterior septal branch of anterior interventricular artery
+			[branch3]> Trunk_of septal branch of anterior interventricular artery
+			[branch3]> Trunk_of posterior septal branch of anterior interventricular artery
+			[branch3]> Trunk_of left anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of right anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of first left anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of first right anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of second left anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of second right anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of third left anterior branch of anterior interventricular branch of left coronary artery
+			[branch3]> Trunk_of third right anterior branch of anterior interventricular branch of left coronary artery
+		[branch2]> Trunk_of circumflex branch of left coronary artery
+			[branch3]> Trunk_of kugel's anastomotic artery
+			[branch3]> Trunk_of left marginal artery
+			[branch3]> Trunk_of atrial anastomotic branch of circumflex coronary artery
+			[branch3]> Trunk_of intermediate atrial branch of circumflex coronary artery
+			[branch3]> Trunk_of atrial branch of circumflex coronary artery
+			[branch3]> Trunk_of sinoatrial nodal branch of circumflex coronary artery
+			[branch3]> Trunk_of atrioventricular node branch of circumflex coronary artery
+			[branch3]> Trunk_of unnamed branch of circumflex coronary artery
+			[branch3]> Trunk_of ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of anterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of first anterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of second anterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of third anterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of posterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of first posterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of second posterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of third posterior ventricular branch of circumflex coronary artery
+			[branch3]> Trunk_of posterior interventricular branch of left coronary artery
+				[branch4]> Trunk_of first septal branch of left posterior interventricular artery
+				[branch4]> Trunk_of second septal branch of left posterior interventricular artery
+				[branch4]> Trunk_of third septal branch of left posterior interventricular artery
+				
+	[branch1]> Trunk_of right coronary artery
+		[branch2]> Trunk_of anterior atrial branch of right coronary artery
+		[branch2]> Trunk_of sinoatrial nodal branch of right coronary artery
+			[branch3]> Trunk_of crista terminalis branch of sinoatrial nodal artery
+		[branch2]> Trunk_of right conus artery
+			[branch3]> Trunk_of circle of Vieussens
+		[branch2]> Trunk_of lateral atrial branch of right coronary artery
+		[branch2]> Trunk_of posterior atrial branch of right coronary artery
+		[branch2]> Trunk_of left posterior atrial branch of right coronary artery
+		[branch2]> Trunk_of recurrent atrioventricular branch of right coronary artery
+		[branch2]> Trunk_of unnamed branch of right coronary artery
+		[branch2]> Trunk_of first anterior ventricular branch of right coronary artery
+		[branch2]> Trunk_of second anterior ventricular branch of right coronary artery
+		[branch2]> Trunk_of third anterior ventricular branch of right coronary artery
+		[branch2]> Trunk_of marginal branch of right coronary artery
+		[branch2]> Trunk_of posterior interventricular branch of right coronary artery
+			[branch3]> Trunk_of first septal branch of right posterior interventricular artery
+			[branch3]> Trunk_of second septal branch of right posterior interventricular artery
+			[branch3]> Trunk_of third septal branch of right posterior interventricular artery
+				[branch4]> Trunk_of atrioventricular node branch of right coronary artery
+		[branch2]> Trunk_of first posterior ventricular branch of right coronary artery
+		[branch2]> Trunk_of second posterior ventricular branch of right coronary artery
+		[branch2]> Trunk_of third posterior ventricular branch of right coronary artery
+	
+	[branch1]> Trunk_of brachiocephalic artery
+	[branch1]> Trunk_of left common carotid artery
+	[branch1]> Trunk_of left subclavian artery
+	[branch1]> Trunk_of pericardial artery
+	[branch1]> Trunk_of right bronchial artery
+	[branch1]> Trunk_of left first bronchial artery
+	[branch1]> Trunk_of left second bronchial artery
+	[branch1]> Trunk_of right first posterior intercostal artery
+	[branch1]> Trunk_of left first posterior intercostal artery
+	[branch1]> Trunk_of right second posterior intercostal artery
+	[branch1]> Trunk_of left second posterior intercostal artery
+
+	[branch1]> Trunk_of right third posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right third posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right third posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right third posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right third posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right third posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right third posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right third posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right third posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right third posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right third posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right third posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right third posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right third posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right third posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right third posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right third posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right third posterior intercostal artery
+				[branch4]> Trunk_of mammary branch of right third posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right third posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right third posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right third posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right third posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right third posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right third posterior intercostal artery
+		[branch2]> Trunk_of variant right bronchial artery
+
+	[branch1]> Trunk_of left third posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left third posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left third posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left third posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left third posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left third posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left third posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left third posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left third posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left third posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left third posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left third posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left third posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left third posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left third posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left third posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left third posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left third posterior intercostal artery
+				[branch4]> Trunk_of mammary branch of left third posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left third posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left third posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left third posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left third posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left third posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left third posterior intercostal artery
+		
+	[branch1]> Trunk_of right fourth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right fourth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right fourth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right fourth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right fourth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right fourth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right fourth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right fourth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right fourth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right fourth posterior intercostal artery
+				[branch4]> Trunk_of mammary branch of right fourth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right fourth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right fourth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right fourth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right fourth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right fourth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right fourth posterior intercostal artery
+
+	[branch1]> Trunk_of left fourth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left fourth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left fourth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left fourth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left fourth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left fourth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left fourth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left fourth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left fourth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left fourth posterior intercostal artery
+				[branch4]> Trunk_of mammary branch of left fourth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left fourth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left fourth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left fourth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left fourth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left fourth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left fourth posterior intercostal artery
+	
+	[branch1]> Trunk_of right fifth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right fifth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right fifth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right fifth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right fifth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right fifth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right fifth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right fifth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right fifth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right fifth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right fifth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right fifth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right fifth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right fifth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right fifth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right fifth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right fifth posterior intercostal artery
+		
+	[branch1]> Trunk_of left fifth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left fifth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left fifth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left fifth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left fifth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left fifth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left fifth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left fifth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left fifth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left fifth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left fifth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left fifth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left fifth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left fifth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left fifth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left fifth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left fifth posterior intercostal artery
+	
+	[branch1]> Trunk_of right sixth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right sixth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right sixth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right sixth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right sixth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right sixth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right sixth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right sixth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right sixth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right sixth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right sixth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right sixth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right sixth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right sixth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right sixth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right sixth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right sixth posterior intercostal artery
+	
+	[branch1]> Trunk_of left sixth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left sixth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left sixth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left sixth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left sixth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left sixth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left sixth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left sixth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left sixth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left sixth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left sixth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left sixth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left sixth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left sixth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left sixth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left sixth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left sixth posterior intercostal artery
+		
+	[branch1]> Trunk_of right seventh posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right seventh posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right seventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right seventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right seventh posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right seventh posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right seventh posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right seventh posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right seventh posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right seventh posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right seventh posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right seventh posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right seventh posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right seventh posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right seventh posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right seventh posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right seventh posterior intercostal artery
+		
+	[branch1]> Trunk_of left seventh posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left seventh posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left seventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left seventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left seventh posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left seventh posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left seventh posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left seventh posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left seventh posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left seventh posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left seventh posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left seventh posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left seventh posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left seventh posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left seventh posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left seventh posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left seventh posterior intercostal artery
+
+	[branch1]> Trunk_of right eighth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right eighth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right eighth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right eighth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right eighth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right eighth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right eighth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right eighth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right eighth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right eighth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right eighth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right eighth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right eighth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right eighth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right eighth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right eighth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right eighth posterior intercostal artery
+		
+	[branch1]> Trunk_of left eighth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left eighth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left eighth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left eighth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left eighth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left eighth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left eighth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left eighth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left eighth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left eighth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left eighth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left eighth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left eighth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left eighth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left eighth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left eighth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left eighth posterior intercostal artery
+
+	[branch1]> Trunk_of esophageal artery
+	[branch1]> Trunk_of mediastinal artery
+	
+	[branch1]> Trunk_of right ninth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right ninth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right ninth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right ninth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right ninth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right ninth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right ninth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right ninth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right ninth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right ninth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right ninth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right ninth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right ninth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right ninth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right ninth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right ninth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right ninth posterior intercostal artery
+
+	[branch1]> Trunk_of left ninth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left ninth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left ninth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left ninth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left ninth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left ninth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left ninth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left ninth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left ninth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left ninth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left ninth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left ninth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left ninth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left ninth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left ninth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left ninth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left ninth posterior intercostal artery
+
+	[branch1]> Trunk_of right tenth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right tenth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right tenth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right tenth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right tenth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right tenth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right tenth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right tenth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right tenth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right tenth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right tenth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right tenth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right tenth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right tenth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right tenth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right tenth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right tenth posterior intercostal artery
+		
+	[branch1]> Trunk_of left tenth posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left tenth posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left tenth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left tenth posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left tenth posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left tenth posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left tenth posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left tenth posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left tenth posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left tenth posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left tenth posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left tenth posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left tenth posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left tenth posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left tenth posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left tenth posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left tenth posterior intercostal artery
+		
+	[branch1]> Trunk_of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of right eleventh posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of right eleventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of right eleventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of right eleventh posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right eleventh posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right eleventh posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right eleventh posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right eleventh posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of right eleventh posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of right eleventh posterior intercostal artery
+		[branch2]> Trunk_of costal branch of right eleventh posterior intercostal artery
+	
+	[branch1]> Trunk_of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of dorsal branch of left eleventh posterior intercostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of postcentral branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of prelaminar branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of anterior radicular branch of left eleventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of posterior radicular branch of left eleventh posterior intercostal artery
+					[branch5]> Trunk_of medullary branch of left eleventh posterior intercostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left eleventh posterior intercostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left eleventh posterior intercostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of precentral branch of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left eleventh posterior intercostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left eleventh posterior intercostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of collateral branch of left eleventh posterior intercostal artery
+			[branch3]> Trunk_of muscular branch of collateral branch of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of muscular branch of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of pleural branch of left eleventh posterior intercostal artery
+		[branch2]> Trunk_of costal branch of left eleventh posterior intercostal artery
+	
+	[branch1]> Trunk_of right subcostal artery
+		[branch2]> Trunk_of dorsal branch of right subcostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of right subcostal artery
+				[branch4]> Trunk_of postcentral branch of right subcostal artery
+				[branch4]> Trunk_of prelaminar branch of right subcostal artery
+				[branch4]> Trunk_of anterior radicular branch of right subcostal artery
+					[branch5]> Trunk_of medullary branch of right subcostal artery
+				[branch4]> Trunk_of posterior radicular branch of right subcostal artery
+					[branch5]> Trunk_of medullary branch of right subcostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right subcostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of right subcostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of right subcostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right subcostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right subcostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right subcostal artery
+		[branch2]> Trunk_of precentral branch of right subcostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of right subcostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of right subcostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of right subcostal artery
+			
+	[branch1]> Trunk_of left subcostal artery
+		[branch2]> Trunk_of dorsal branch of left subcostal artery
+			[branch3]> Trunk_of spinal branch of dorsal branch of left subcostal artery
+				[branch4]> Trunk_of postcentral branch of left subcostal artery
+				[branch4]> Trunk_of prelaminar branch of left subcostal artery
+				[branch4]> Trunk_of anterior radicular branch of left subcostal artery
+					[branch5]> Trunk_of medullary branch of left subcostal artery
+				[branch4]> Trunk_of posterior radicular branch of left subcostal artery
+					[branch5]> Trunk_of medullary branch of left subcostal artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left subcostal artery
+				[branch4]> Trunk_of postlaminar branch of dorsal branch of left subcostal artery
+				[branch4]> Trunk_of articular branch of dorsal branch of left subcostal artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left subcostal artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left subcostal artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left subcostal artery
+		[branch2]> Trunk_of precentral branch of left subcostal artery
+		[branch2]> Trunk_of lateral cutaneous branch of left subcostal artery
+			[branch3]> Trunk_of anterior branch of lateral cutaneous branch of left subcostal artery
+			[branch3]> Trunk_of posterior branch of lateral cutaneous branch of left subcostal artery
+			
+	[branch1]> Trunk of right first superior phrenic artery
+	[branch1]> Trunk of left first superior phrenic artery
+	
+	[branch1]> Trunk_of right inferior phrenic artery
+		[branch2]> Trunk_of right superior suprarenal artery
+		[branch2]> Trunk_of medial branch of right inferior phrenic artery
+		[branch2]> Trunk_of lateral branch of right inferior phrenic artery
+			[branch3]> Trunk_of caval branch of lateral branch of right inferior phrenic artery
+			
+	[branch1]> Trunk_of left inferior phrenic artery
+		[branch2]> Trunk_of left superior suprarenal artery
+		[branch2]> Trunk_of medial branch of left inferior phrenic artery
+		[branch2]> Trunk_of lateral branch of left inferior phrenic artery
+			[branch3]> Trunk_of esophageal branch of lateral branch of left inferior phrenic artery
+			
+	[branch1]> Celiac trunk
+		[branch2]> Trunk_of left gastric artery
+			[branch3]> Trunk_of pylorus of stomach branch of left gastric artery
+			[branch3]> Trunk_of cardia of stomach branch of left gastric artery
+			[branch3]> Trunk_of oesophageal branch of left gastric artery
+		[branch2]> Trunk_of splenic artery
+			[branch3]> Trunk_of dorsal pancreatic artery
+				[branch4]> Trunk_of right branch of dorsal pancreatic artery
+				[branch4]> Trunk_of left branch of dorsal pancreatic artery
+			[branch3]> Trunk_of short gastric artery
+			[branch3]> Trunk_of posterior gastric artery
+			[branch3]> Trunk_of inferior pancreatic artery
+			[branch3]> Trunk_of great pancreatic artery
+			[branch3]> Trunk_of prepancreatic artery
+			[branch3]> Trunk_of caudal pancreatic artery
+			[branch3]> Trunk_of left gastro-epiploic artery
+				[branch4]> Trunk_of omental branch of left gastro-epiploic artery
+				[branch4]> Trunk_of gastric branch of left gastro-epiploic artery
+			[branch3]> Trunk_of splenic branch of splenic artery
+			[branch3]> Trunk_of hilar branch of splenic artery
+			[branch3]> Trunk_of segmental branch of splenic artery
+			[branch3]> Trunk_of terminal part of splenic artery
+		[branch2]> Trunk_of common hepatic artery
+			[branch3]> Trunk_of right gastric artery
+				[branch4]> Trunk_of variant supraduodenal artery
+			[branch3]> Trunk_of gastroduodenal artery
+				[branch4]> Trunk_of posterior superior pancreaticoduodenal artery
+					[branch5]> Trunk_of pancreatic part of posterior superior pancreaticoduodenal artery
+					[branch5]> Trunk_of duodenal part of posterior superior pancreaticoduodenal artery
+				[branch4]> Trunk_of retroduodenal artery
+				[branch4]> Trunk_of variant supraduodenal artery
+				[branch4]> Trunk_of supraduodenal artery
+				[branch4]> Trunk_of right gastro-epiploic artery
+					[branch5]> Trunk_of omental branch of right gastro-epiploic artery
+					[branch5]> Trunk_of gastric branch of right gastro-epiploic artery
+				[branch4]> Trunk_of anterior superior pancreaticoduodenal artery
+					[branch5]> Trunk_of gastric part of anterior superior pancreaticoduodenal artery
+					[branch5]> Trunk_of omental part of anterior superior pancreaticoduodenal artery
+			[branch3]> Trunk_of hepatic artery proper
+				[branch4]> Trunk_of right hepatic artery
+					[branch5]> Trunk_of cystic artery
+						[branch6]> Trunk_of superficial branch of cystic artery
+						[branch6]> Trunk_of deep branch of cystic artery
+					[branch5]> Trunk_of right lobe branch of right hepatic artery
+						[branch6]> Trunk_of anterior segmental hepatic artery
+							[branch7]> Trunk_of anterior superior segmental hepatic artery
+							[branch7]> Trunk_of anterior inferior segmental hepatic artery
+						[branch6]> Trunk_of posterior segmental hepatic artery
+							[branch7]> Trunk_of posterior superior segmental hepatic artery
+							[branch7]> Trunk_of posterior inferior segmental hepatic artery
+					[branch5]> Trunk_of caudate lobe branch of right hepatic artery
+				[branch4]> Trunk_of left hepatic artery
+					[branch5]> Trunk_of caudate lobe branch of left hepatic artery
+					[branch5]> Trunk_of left lobe branch of left hepatic artery
+						[branch6]> Trunk_of medial segmental hepatic artery
+							[branch7]> Trunk_of medial superior segmental hepatic artery
+							[branch7]> Trunk_of medial inferior segmental hepatic artery
+						[branch6]> Trunk_of lateral segmental hepatic artery
+							[branch7]> Trunk_of lateral superior segmental hepatic artery
+							[branch7]> Trunk_of lateral inferior segmental hepatic artery
+					[branch5]> Trunk_of accessory left gastric artery
+	
+	[branch1]> Trunk_of superior mesenteric artery
+		[branch2]> Trunk_of inferior pancreaticoduodenal artery
+			[branch3]> Trunk_of anterior inferior pancreaticoduodenal artery
+			[branch3]> Trunk_of posterior inferior pancreaticoduodenal artery
+		[branch2]> Trunk_of middle colic artery
+			[branch3]> Trunk_of left middle colic artery
+			[branch3]> Trunk_of splenic flexure branch of middle colic artery
+			[branch3]> Trunk_of right middle colic artery
+		[branch2]> Trunk_of right flexural artery
+		[branch2]> Trunk_of right colic artery
+			[branch3]> Trunk_of ascending branch of right colic artery
+			[branch3]> Trunk_of descending branch of right colic artery
+		[branch2]> Trunk_of jejunal artery
+		[branch2]> Trunk_of ileal artery
+		[branch2]> Trunk_of ileocolic artery
+			[branch3]> Trunk_of superior branch of ileocolic artery
+			[branch3]> Trunk_of inferior branch of ileocolic artery
+				[branch4]> Trunk_of ascending branch of inferior branch of ileocolic artery
+				[branch4]> Trunk_of ileal branch of inferior branch of ileocolic artery
+				[branch4]> Trunk_of appendicular artery
+				[branch4]> Trunk_of marginal colic artery
+				[branch4]> Trunk_of posterior cecal artery
+				[branch4]> Trunk_of anterior cecal artery
+				
+	[branch1]> Trunk of right middle suprarenal artery
+	[branch1]> Trunk of left middle suprarenal artery
+	[branch1]> Trunk of right accessory renal artery
+	[branch1]> Trunk of left accessory renal artery
+
+	[branch1]> Trunk_of right renal artery
+		[branch2]> Trunk_of ureteric segment of right renal artery
+		[branch2]> Trunk_of right inferior suprarenal artery
+			[branch3]> Trunk_of anterior branch of right inferior suprarenal artery
+			[branch3]> Trunk_of posterior branch of right inferior suprarenal artery
+		[branch2]> Trunk_of intrarenal segment of right renal artery
+			[branch3]> Trunk_of anterior division of right renal artery
+				[branch4]> Trunk_of superior segmental branch of right renal artery
+					[branch5]> Trunk_of lobar branch of right superior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of right superior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of right superior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of right superior segmental renal artery
+				[branch4]> Trunk_of anterior superior segmental branch of right renal artery
+					[branch5]> Trunk_of lobar branch of right anterior superior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of right anterior superior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of right anterior superior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of right anterior superior segmental renal artery
+				[branch4]> Trunk_of anterior inferior segmental branch of right renal artery
+					[branch5]> Trunk_of lobar branch of right anterior inferior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of right anterior inferior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of right anterior inferior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of right anterior inferior segmental renal artery
+				[branch4]> Trunk_of inferior segmental branch of right renal artery
+					[branch5]> Trunk_of lobar branch of right inferior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of right inferior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of right inferior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of right inferior segmental renal artery
+			[branch3]> Trunk_of posterior division of right renal artery
+				[branch4]> Trunk_of posterior segmental branch of right renal artery
+					[branch5]> Trunk_of lobar branch of right posterior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of right posterior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of right posterior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of right posterior segmental renal artery
+								
+	[branch1]> Trunk_of left renal artery
+		[branch2]> Trunk_of ureteric segment of left renal artery
+		[branch2]> Trunk_of left inferior suprarenal artery
+			[branch3]> Trunk_of anterior branch of left inferior suprarenal artery
+			[branch3]> Trunk_of posterior branch of left inferior suprarenal artery
+		[branch2]> Trunk_of intrarenal segment of left renal artery
+			[branch3]> Trunk_of anterior division of left renal artery
+				[branch4]> Trunk_of superior segmental branch of left renal artery
+					[branch5]> Trunk_of lobar branch of left superior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of left superior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of left superior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of left superior segmental renal artery
+				[branch4]> Trunk_of anterior superior segmental branch of left renal artery
+					[branch5]> Trunk_of lobar branch of left anterior superior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of left anterior superior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of left anterior superior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of left anterior superior segmental renal artery
+				[branch4]> Trunk_of anterior inferior segmental branch of left renal artery
+					[branch5]> Trunk_of lobar branch of left anterior inferior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of left anterior inferior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of left anterior inferior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of left anterior inferior segmental renal artery
+				[branch4]> Trunk_of inferior segmental branch of left renal artery
+					[branch5]> Trunk_of lobar branch of left inferior segmental renal artery
+						[branch6]> Trunk_of interlobar branch of left inferior segmental renal artery
+							[branch7]> Trunk_of arcuate branch of left inferior segmental renal artery
+								[branch8]> Trunk_of interlobular branch of left inferior segmental renal artery
+			[branch3]> Trunk_of posterior division of left renal artery
+				[branch4]> Trunk_of posterior segmental branch of left renal artery
+					[branch5]> Trunk_of lobar branch of left posterior segmental renal artery
+					[branch6]> Trunk_of interlobar branch of left posterior segmental renal artery
+						[branch7]> Trunk_of arcuate branch of left posterior segmental renal artery
+							[branch8]> Trunk_of interlobular branch of left posterior segmental renal artery
+							
+	[branch1]> Trunk_of right ovarian artery
+		[branch2]> Trunk_of ureteric branch of right ovarian artery
+		[branch2]> Trunk_of tubal branch of right ovarian artery
+		
+	[branch1]> Trunk_of left ovarian artery
+		[branch2]> Trunk_of ureteric branch of left ovarian artery
+		[branch2]> Trunk_of tubal branch of left ovarian artery
+	
+	[branch1]> Trunk_of right testicular artery
+		[branch2]> Trunk_of ureteric branch of right testicular artery
+		[branch2]> Trunk_of epididymal branch of right testicular artery
+
+	[branch1]> Trunk_of left testicular artery
+		[branch2]> Trunk_of ureteric branch of left testicular artery
+		[branch2]> Trunk_of epididymal branch of left testicular artery
+
+	[branch1]> Trunk_of right first lumbar artery
+		[branch2]> Trunk_of spinal branch of right first lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of right first lumbar artery
+			[branch3]> Trunk_of radicular branch of right first lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of right first lumbar artery
+		[branch2]> Trunk_of precentral branch of right first lumbar artery
+		[branch2]> Trunk_of dorsal branch of right first lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right first lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of right first lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of right first lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right first lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right first lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right first lumbar artery
+				
+	[branch1]> Trunk_of left first lumbar artery
+		[branch2]> Trunk_of spinal branch of left first lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of left first lumbar artery
+			[branch3]> Trunk_of radicular branch of left first lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of left first lumbar artery
+		[branch2]> Trunk_of precentral branch of left first lumbar artery
+		[branch2]> Trunk_of dorsal branch of left first lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left first lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of left first lumbar artery
+		{WAS_BRANCH_OF:Trunk of precentral branch of left first lumbar artery}	[branch3]> Trunk_of articular branch of dorsal branch of left first lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left first lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left first lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left first lumbar artery
+
+				
+	[branch1]> Trunk_of right second lumbar artery
+		[branch2]> Trunk_of spinal branch of right second lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of right second lumbar artery
+			[branch3]> Trunk_of radicular branch of right second lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of right second lumbar artery
+		[branch2]> Trunk_of precentral branch of right second lumbar artery
+		[branch2]> Trunk_of dorsal branch of right second lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right second lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of right second lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of right second lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right second lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right second lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right second lumbar artery
+	
+	[branch1]> Trunk_of left second lumbar artery
+		[branch2]> Trunk_of spinal branch of left second lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of left second lumbar artery
+			[branch3]> Trunk_of radicular branch of left second lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of left second lumbar artery
+		[branch2]> Trunk_of precentral branch of left second lumbar artery
+		[branch2]> Trunk_of dorsal branch of left second lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left second lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of left second lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of left second lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left second lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left second lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left second lumbar artery
+
+	[branch1]> Trunk_of right third lumbar artery
+		[branch2]> Trunk_of spinal branch of right third lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of right third lumbar artery
+			[branch3]> Trunk_of radicular branch of right third lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of right third lumbar artery
+		[branch2]> Trunk_of precentral branch of right third lumbar artery
+		[branch2]> Trunk_of dorsal branch of right third lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right third lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of right third lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of right third lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right third lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right third lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right third lumbar artery
+	
+	[branch1]> Trunk_of left third lumbar artery
+		[branch2]> Trunk_of spinal branch of left third lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of left third lumbar artery
+			[branch3]> Trunk_of radicular branch of left third lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of left third lumbar artery
+		[branch2]> Trunk_of precentral branch of left third lumbar artery
+		[branch2]> Trunk_of dorsal branch of left third lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left third lumbar artery
+		{WAS_BRANCH_OF:Trunk of precentral branch of left third lumbar artery}	[branch3]> Trunk_of postlaminar branch of dorsal branch of left third lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of left third lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left third lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left third lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left third lumbar artery
+				
+	[branch1]> Trunk_of inferior mesenteric artery
+		[branch2]> Trunk_of left colic artery
+			[branch3]> Trunk_of descending branch of left colic artery
+			[branch3]> Trunk_of ascending branch of left colic artery
+		[branch2]> Trunk_of ascending branch of inferior mesenteric artery
+		[branch2]> Trunk_of marginal artery of colon
+		[branch2]> Trunk_of sigmoid artery
+		[branch2]> Trunk_of superior rectal artery
+
+	[branch1]> Trunk_of right fourth lumbar artery
+		[branch2]> Trunk_of spinal branch of right fourth lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of right fourth lumbar artery
+			[branch3]> Trunk_of radicular branch of right fourth lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of right fourth lumbar artery
+		[branch2]> Trunk_of precentral branch of right fourth lumbar artery
+		[branch2]> Trunk_of dorsal branch of right fourth lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of right fourth lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of right fourth lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of right fourth lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of right fourth lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of right fourth lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of right fourth lumbar artery
+				
+	[branch1]> Trunk_of left fourth lumbar artery
+		[branch2]> Trunk_of spinal branch of left fourth lumbar artery
+			[branch3]> Trunk_of ventral spinal branch of left fourth lumbar artery
+			[branch3]> Trunk_of radicular branch of left fourth lumbar artery
+			[branch3]> Trunk_of dorsal spinal branch of left fourth lumbar artery
+		[branch2]> Trunk_of precentral branch of left fourth lumbar artery
+		[branch2]> Trunk_of dorsal branch of left fourth lumbar artery
+			[branch3]> Trunk_of medial branch of dorsal branch of left fourth lumbar artery
+			[branch3]> Trunk_of postlaminar branch of dorsal branch of left fourth lumbar artery
+			[branch3]> Trunk_of articular branch of dorsal branch of left fourth lumbar artery
+			[branch3]> Trunk_of lateral branch of dorsal branch of left fourth lumbar artery
+				[branch4]> Trunk_of muscular branch of lateral branch of dorsal branch of left fourth lumbar artery
+				[branch4]> Trunk_of cutaneous branch of lateral branch of dorsal branch of left fourth lumbar artery
+
+	[branch1]> Trunk_of median sacral artery
+		[branch2]> Trunk_of right fifth lumbar artery
+		[branch2]> Trunk_of left fifth lumbar artery
+		[branch2]> Trunk_of lumbar branch of median sacral artery
+		[branch2]> Trunk_of branch of median sacral artery anastomosing with iliolumbar artery
+		
+	[branch1]> Trunk_of right common iliac artery
+		[branch2]> Trunk_of right external iliac artery
+		[branch2]> Trunk_of right internal iliac artery
+			[branch3]> Trunk_of posterior division of right internal iliac artery
+				[branch4]> Trunk_of right iliolumbar artery
+					[branch5]> Trunk_of lumbar part of right iliolumbar artery
+						[branch6]> Trunk_of psoas major division of lumbar part of right iliolumbar artery
+						[branch6]> Trunk_of quadratus lumborum division of lumbar part of right iliolumbar artery
+						[branch6]> Trunk_of spinal division of lumbar part of right iliolumbar artery
+					[branch5]> Trunk_of iliac part of right iliolumbar artery
+						[branch6]> Trunk_of iliacus muscle branch of iliac branch of right iliolumbar artery
+				[branch4]> Trunk_of right lateral sacral artery
+					[branch5]> Trunk_of superior part of right lateral sacral artery
+						[branch6]> Trunk_of sacral vertebral division of superior part of right lateral sacral artery
+						[branch6]> Trunk_of sacral canal division of superior part of right lateral sacral artery
+						[branch6]> Trunk_of cutaneous division of superior part of right lateral sacral artery
+					[branch5]> Trunk_of inferior branch of right lateral sacral artery
+				[branch4]> Trunk_of right superior gluteal artery
+					[branch5]> Trunk_of piriformis part of right superior gluteal artery
+					[branch5]> Trunk_of obturator internus part of right superior gluteal artery
+					[branch5]> Trunk_of superficial part of right superior gluteal artery
+						[branch6]> Trunk_of gluteus maximus division of superficial part of right superior gluteal artery
+						[branch6]> Trunk_of cutaneous division of superficial part of right superior gluteal artery
+					[branch5]> Trunk_of deep part of right superior gluteal artery
+						[branch6]> Trunk_of superior division of deep part of right superior gluteal artery
+						[branch6]> Trunk_of inferior division of deep part of right superior gluteal artery
+							[branch7]> Trunk_of gluteus medius part of right superior gluteal artery
+							[branch7]> Trunk_of gluteus minimus part of right superior gluteal artery
+			[branch3]> Trunk_of anterior division of right internal iliac artery
+				{WAS_BRANCH_OF:Trunk of right umbilical artery}		[branch4]> Trunk_of right superior vesical artery
+					{WAS_BRANCH_OF:Trunk of anterior division of right internal iliac artery}		[branch5]> Trunk_of right umbilical artery
+				[branch4]> Trunk_of right obturator artery
+					[branch5]> Trunk_of iliac part of right obturator artery
+					[branch5]> Trunk_of vesical part of right obturator artery
+					[branch5]> Trunk_of pubic part of right obturator artery
+					[branch5]> Trunk_of anterior part of right obturator artery
+						[branch6]> Trunk_of obturator externus part of right obturator artery
+						[branch6]> Trunk_of pectineus part of right obturator artery
+					[branch5]> Trunk_of posterior part of right obturator artery
+					[branch5]> Trunk_of gracilis part of right obturator artery
+					[branch5]> Trunk_of adductor longus part of right obturator artery
+					[branch5]> Trunk_of adductor brevis part of right obturator artery
+					[branch5]> Trunk_of adductor magnus part of right obturator artery
+					[branch5]> Trunk_of acetabular part of right obturator artery
+				[branch4]> Trunk_of right uterine artery
+					[branch5]> Trunk_of ureteral part of right uterine artery
+					[branch5]> Trunk_of uterine cervical part of right uterine artery
+					[branch5]> Trunk_of uterine body part of right uterine artery
+						[branch6]> Trunk_of right helicine artery of uterus
+					[branch5]> Trunk_of round ligament part of right uterine artery
+					[branch5]> Trunk_of ovarian part of right uterine artery
+					[branch5]> Trunk_of vaginal part of right uterine artery
+						[branch6]> Trunk_of right azygos artery of vagina
+					[branch5]> Trunk_of tubal part of right uterine artery
+				[branch4]> Trunk_of right inferior vesical artery
+					[branch5]> Trunk_of ureteral part of right inferior vesical artery
+					[branch5]> Trunk_of fundal part of right inferior vesical artery
+					[branch5]> Trunk_of prostatic part of right inferior vesical artery
+					[branch5]> Trunk_of seminal vesicle part of right inferior vesical artery
+					[branch5]> Trunk_of ductus deferens part of right inferior vesical artery
+				[branch4]> Trunk_of right middle rectal artery
+					[branch5]> Trunk_of vaginal branch of right middle rectal artery
+					[branch5]> Trunk_of rectal part of right middle rectal artery
+					[branch5]> Trunk_of seminal vesicle part of right middle rectal artery
+					[branch5]> Trunk_of prostatic part of right middle rectal artery
+				[branch4]> Trunk_of right vaginal artery
+					[branch5]> Trunk_of vestibular bulb part of right vaginal artery
+					[branch5]> Trunk_of vesical fundus part of right vaginal artery
+					[branch5]> Trunk_of rectal part of right vaginal artery
+				[branch4]> Trunk_of right internal pudendal artery
+					[branch5]> Trunk_of muscular branch of right internal pudendal artery
+					[branch5]> Trunk_of right inferior rectal artery
+						[branch6]> Trunk_of cutaneous part of right inferior rectal artery
+						[branch6]> Trunk_of gluteal part of right inferior rectal artery
+					[branch5]> Trunk_of right perineal artery
+						[branch6]> Trunk_of transverse part of right perineal artery
+							[branch7]> Trunk_of anal division of transverse part of right perineal artery
+							[branch7]> Trunk_of penile bulb division of transverse part of right perineal artery
+						[branch6]> Trunk_of right posterior scrotal artery
+							[branch7]> Trunk_of cutaneous part of right posterior scrotal artery
+							[branch7]> Trunk_of muscular part of right posterior scrotal artery
+							[branch7]> Trunk_of dartos part of right posterior scrotal artery
+						[branch6]> Trunk_of right posterior labial artery
+							[branch7]> Trunk_of labium majus part of right posterior labial artery
+							[branch7]> Trunk_of labium minus part of right posterior labial artery
+					[branch5]> Trunk_of right penile bulb artery
+						[branch6]> Trunk_of spongiose part of right penile bulb artery
+						[branch6]> Trunk_of bulbo-urethral part of right penile bulb artery
+					[branch5]> Trunk_of right urethral artery
+						[branch6]> Trunk_of urethral part of right urethral artery
+						[branch6]> Trunk_of spongiose part of right urethral artery
+					[branch5]> Trunk_of right vestibular bulb artery
+					[branch5]> Trunk_of right dorsal artery of penis
+						[branch6]> Trunk_of glans part of right dorsal artery of penis
+						[branch6]> Trunk_of preputial part of right dorsal artery of penis
+						[branch6]> Trunk_of right dorsal artery proper of penis
+					[branch5]> Trunk_of right dorsal artery of clitoris
+						[branch6]> Trunk_of glans part of right dorsal artery of clitoris
+						[branch6]> Trunk_of preputial part of right dorsal artery of clitoris
+						[branch6]> Trunk_of right dorsal artery proper of clitoris
+					[branch5]> Trunk_of right deep artery of penis
+					[branch5]> Trunk_of right deep artery of clitoris
+				[branch4]> Trunk_of right inferior gluteal artery
+					[branch5]> Trunk_of perirectal part of right inferior gluteal artery
+					[branch5]> Trunk_of fundal part of right inferior gluteal artery
+					[branch5]> Trunk_of seminal vesicle part of right inferior gluteal artery
+					[branch5]> Trunk_of prostatic part of right inferior gluteal artery
+					[branch5]> Trunk_of levator ani part of right inferior gluteal artery
+					[branch5]> Trunk_of piriformis part of right inferior gluteal artery
+					[branch5]> Trunk_of coccygeus part of right inferior gluteal artery
+					[branch5]> Trunk_of gluteus maximus part of right inferior gluteal artery
+					[branch5]> Trunk_of obturator internus part of right inferior gluteal artery
+					[branch5]> Trunk_of gemellus superior part of right inferior gluteal artery
+					[branch5]> Trunk_of gemellus inferior part of right inferior gluteal artery
+					[branch5]> Trunk_of quadratus femoris part of right inferior gluteal artery
+					[branch5]> Trunk_of biceps femoris part of right inferior gluteal artery
+					[branch5]> Trunk_of semitendinosus part of right inferior gluteal artery
+					[branch5]> Trunk_of semimembranosus part of right inferior gluteal artery
+					[branch5]> Trunk_of cutaneous part of right inferior gluteal artery
+					[branch5]> Trunk_of artery to right sciatic nerve
+		
+	[branch1]> Trunk_of left common iliac artery
+		[branch2]> Trunk_of left external iliac artery
+		[branch2]> Trunk_of left internal iliac artery
+			[branch3]> Trunk_of posterior division of left internal iliac artery
+				[branch4]> Trunk_of left iliolumbar artery
+					[branch5]> Trunk_of lumbar part of left iliolumbar artery
+						[branch6]> Trunk_of psoas major division of lumbar part of left iliolumbar artery
+						[branch6]> Trunk_of quadratus lumborum division of lumbar part of left iliolumbar artery
+						[branch6]> Trunk_of spinal division of lumbar part of left iliolumbar artery
+					[branch5]> Trunk_of iliac part of left iliolumbar artery
+						[branch6]> Trunk_of iliacus muscle branch of iliac branch of left iliolumbar artery
+				[branch4]> Trunk_of left lateral sacral artery
+					[branch5]> Trunk_of superior part of left lateral sacral artery
+						[branch6]> Trunk_of sacral vertebral division of superior part of left lateral sacral artery
+						[branch6]> Trunk_of sacral canal division of superior part of left lateral sacral artery
+						[branch6]> Trunk_of cutaneous division of superior part of left lateral sacral artery
+					[branch5]> Trunk_of inferior branch of left lateral sacral artery
+				[branch4]> Trunk_of left superior gluteal artery
+					[branch5]> Trunk_of piriformis part of left superior gluteal artery
+					[branch5]> Trunk_of obturator internus part of left superior gluteal artery
+					[branch5]> Trunk_of superficial part of left superior gluteal artery
+						[branch6]> Trunk_of gluteus maximus division of superficial part of left superior gluteal artery
+						[branch6]> Trunk_of cutaneous division of superficial part of left superior gluteal artery
+					[branch5]> Trunk_of deep part of left superior gluteal artery
+						[branch6]> Trunk_of superior division of deep part of left superior gluteal artery
+						[branch6]> Trunk_of inferior division of deep part of left superior gluteal artery
+							[branch7]> Trunk_of gluteus medius part of left superior gluteal artery
+							[branch7]> Trunk_of gluteus minimus part of left superior gluteal artery
+			[branch3]> Trunk_of anterior division of left internal iliac artery
+				{WAS_BRANCH_OF:Trunk of left umbilical artery}		[branch4]> Trunk_of left superior vesical artery
+					{WAS_BRANCH_OF:Trunk of anterior division of left internal iliac artery}		[branch5]> Trunk_of left umbilical artery
+				[branch4]> Trunk_of left obturator artery
+					[branch5]> Trunk_of iliac part of left obturator artery
+					[branch5]> Trunk_of vesical part of left obturator artery
+					[branch5]> Trunk_of pubic part of left obturator artery
+					[branch5]> Trunk_of anterior part of left obturator artery
+						[branch6]> Trunk_of obturator externus part of left obturator artery
+						[branch6]> Trunk_of pectineus part of left obturator artery
+					[branch5]> Trunk_of posterior part of left obturator artery
+					[branch5]> Trunk_of gracilis part of left obturator artery
+					[branch5]> Trunk_of adductor longus part of left obturator artery
+					[branch5]> Trunk_of adductor brevis part of left obturator artery
+					[branch5]> Trunk_of adductor magnus part of left obturator artery
+					[branch5]> Trunk_of acetabular part of left obturator artery
+				[branch4]> Trunk_of left uterine artery
+					[branch5]> Trunk_of ureteral part of left uterine artery
+					[branch5]> Trunk_of uterine cervical part of left uterine artery
+					[branch5]> Trunk_of uterine body part of left uterine artery
+						[branch6]> Trunk_of left helicine artery of uterus
+					[branch5]> Trunk_of round ligament part of left uterine artery
+					[branch5]> Trunk_of ovarian part of left uterine artery
+					[branch5]> Trunk_of vaginal part of left uterine artery
+						[branch6]> Trunk_of left azygos artery of vagina
+					[branch5]> Trunk_of tubal part of left uterine artery
+				[branch4]> Trunk_of left inferior vesical artery
+					[branch5]> Trunk_of ureteral part of left inferior vesical artery
+					[branch5]> Trunk_of fundal part of left inferior vesical artery
+					[branch5]> Trunk_of prostatic part of left inferior vesical artery
+					[branch5]> Trunk_of seminal vesicle part of left inferior vesical artery
+					[branch5]> Trunk_of ductus deferens part of left inferior vesical artery
+				[branch4]> Trunk_of left middle rectal artery
+					[branch5]> Trunk_of vaginal branch of left middle rectal artery
+					[branch5]> Trunk_of rectal part of left middle rectal artery
+					[branch5]> Trunk_of seminal vesicle part of left middle rectal artery
+					[branch5]> Trunk_of prostatic part of left middle rectal artery
+				[branch4]> Trunk_of left vaginal artery
+					[branch5]> Trunk_of vestibular bulb part of left vaginal artery
+					[branch5]> Trunk_of vesical fundus part of left vaginal artery
+					[branch5]> Trunk_of rectal part of left vaginal artery
+				[branch4]> Trunk_of left internal pudendal artery
+					[branch5]> Trunk_of muscular branch of left internal pudendal artery
+					[branch5]> Trunk_of left inferior rectal artery
+						[branch6]> Trunk_of cutaneous part of left inferior rectal artery
+						[branch6]> Trunk_of gluteal part of left inferior rectal artery
+					[branch5]> Trunk_of left perineal artery
+						[branch6]> Trunk_of transverse part of left perineal artery
+							[branch7]> Trunk_of anal division of transverse part of left perineal artery
+							[branch7]> Trunk_of penile bulb division of transverse part of left perineal artery
+						[branch6]> Trunk_of left posterior scrotal artery
+							[branch7]> Trunk_of cutaneous part of left posterior scrotal artery
+							[branch7]> Trunk_of muscular part of left posterior scrotal artery
+							[branch7]> Trunk_of dartos part of left posterior scrotal artery
+						[branch6]> Trunk_of left posterior labial artery
+							[branch7]> Trunk_of labium majus part of left posterior labial artery
+							[branch7]> Trunk_of labium minus part of left posterior labial artery
+					[branch5]> Trunk_of left penile bulb artery
+						[branch6]> Trunk_of spongiose part of left penile bulb artery
+						[branch6]> Trunk_of bulbo-urethral part of left penile bulb artery
+					[branch5]> Trunk_of left urethral artery
+						[branch6]> Trunk_of urethral part of left urethral artery
+						[branch6]> Trunk_of spongiose part of left urethral artery
+					[branch5]> Trunk_of left vestibular bulb artery
+					[branch5]> Trunk_of left dorsal artery of penis
+						[branch6]> Trunk_of glans part of left dorsal artery of penis
+						[branch6]> Trunk_of preputial part of left dorsal artery of penis
+						[branch6]> Trunk_of left dorsal artery proper of penis
+					[branch5]> Trunk_of left dorsal artery of clitoris
+						[branch6]> Trunk_of glans part of left dorsal artery of clitoris
+						[branch6]> Trunk_of preputial part of left dorsal artery of clitoris
+						[branch6]> Trunk_of left dorsal artery proper of clitoris
+					[branch5]> Trunk_of left deep artery of penis
+					[branch5]> Trunk_of left deep artery of clitoris
+				[branch4]> Trunk_of left inferior gluteal artery
+					[branch5]> Trunk_of perirectal part of left inferior gluteal artery
+					[branch5]> Trunk_of fundal part of left inferior gluteal artery
+					[branch5]> Trunk_of seminal vesicle part of left inferior gluteal artery
+					[branch5]> Trunk_of prostatic part of left inferior gluteal artery
+					[branch5]> Trunk_of levator ani part of left inferior gluteal artery
+					[branch5]> Trunk_of piriformis part of left inferior gluteal artery
+					[branch5]> Trunk_of coccygeus part of left inferior gluteal artery
+					[branch5]> Trunk_of cutaneous part of left inferior gluteal artery
+					[branch5]> Trunk_of gluteus maximus part of left inferior gluteal artery
+					[branch5]> Trunk_of obturator internus part of left inferior gluteal artery
+					[branch5]> Trunk_of gemellus superior part of left inferior gluteal artery
+					[branch5]> Trunk_of gemellus inferior part of left inferior gluteal artery
+					[branch5]> Trunk_of quadratus femoris part of left inferior gluteal artery
+					[branch5]> Trunk_of biceps femoris part of left inferior gluteal artery
+					[branch5]> Trunk_of semitendinosus part of left inferior gluteal artery
+					[branch5]> Trunk_of semimembranosus part of left inferior gluteal artery
+					[branch5]> Trunk_of artery to left sciatic nerve
+					
